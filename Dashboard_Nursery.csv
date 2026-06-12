@@ -31,8 +31,8 @@ year,month,date,keperluan_dan_sumber_bibit,desa,pala,duku,durian,kemiri,cempaka,
 2026,April,25 Apr 2026,SMART Patrol,Mataindo Utara,0,0,0,0,0,0,0,0,0,0,0,0,15,12,27
 2025,August,5 Aug 2025,Agroforestry,Mataindo Utara,5,3,3,0,4,0,0,0,0,0,0,0,0,0,15
 2025,September,7 Sep 2025,Agroforestry,Mataindo Utara,20,10,0,0,0,0,0,0,0,0,0,0,0,0,30
-2025,September,10 Sep 2025,Agroforestry,Mataindo utara,20,0,0,8,0,0,0,0,0,0,0,0,0,0,28
-2025,September,12 Sep 2025,Agroforestry,Mataindo utara,15,0,0,10,0,0,0,0,0,0,0,0,0,0,25
+2025,September,10 Sep 2025,Agroforestry,Mataindo Utara,20,0,0,8,0,0,0,0,0,0,0,0,0,0,28
+2025,September,12 Sep 2025,Agroforestry,Mataindo Utara,15,0,0,10,0,0,0,0,0,0,0,0,0,0,25
 2025,September,14 Sep 2025,Agroforestry,Mataindo,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
 2025,September,15 Sep 2025,Agroforestry,Mataindo Utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
 2025,September,2025-09-17,Agroforestry,Mataindo,20,0,0,0,5,0,0,0,0,0,0,0,0,0,25
@@ -40,89 +40,89 @@ year,month,date,keperluan_dan_sumber_bibit,desa,pala,duku,durian,kemiri,cempaka,
 2025,September,2025-09-18,Agroforestry,Mataindo,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
 2025,September,2025-09-18,Agroforestry,Mataindo,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
 2025,September,2025-09-18,Agroforestry,Mataindo,15,0,0,0,0,0,0,0,0,0,0,0,0,0,15
-2025,September,2025-09-20,Agroforestry,Mataindo utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2025,September,2025-09-20,Agroforestry,Mataindo Utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
 2025,September,2025-09-20,Agroforestry,Mataindo,20,0,10,0,0,0,0,0,0,0,0,0,0,0,30
-2025,September,2025-09-20,Agroforestry,Mataindo utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
-2025,September,2025-09-21,Agroforestry,Mataindo utara,24,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+2025,September,2025-09-20,Agroforestry,Mataindo Utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2025,September,2025-09-21,Agroforestry,Mataindo Utara,24,0,0,0,0,0,0,0,0,0,0,0,0,0,24
 2025,September,2025-09-22,Agroforestry,Mataindo,40,20,0,0,0,0,0,0,0,0,0,0,0,0,60
-2025,September,2025-09-23,Agroforestry,Mataindo utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
-2025,September,2025-09-24,Agroforestry,Mataindo utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2025,September,2025-09-23,Agroforestry,Mataindo Utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2025,September,2025-09-24,Agroforestry,Mataindo Utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
 2025,September,2025-09-26,Agroforestry,Mataindo Utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
-2025,September,2025-09-27,Agroforestry,Mataindo utara,32,0,0,0,0,0,0,0,0,0,0,0,0,0,32
+2025,September,2025-09-27,Agroforestry,Mataindo Utara,32,0,0,0,0,0,0,0,0,0,0,0,0,0,32
 2025,September,2025-09-28,Agroforestry,Mataindo Utara,10,0,0,0,0,0,0,0,0,0,0,0,0,0,10
 2025,September,2025-09-28,Agroforestry,Mataindo,0,10,0,0,0,0,0,0,0,0,0,0,0,0,10
 2025,September,2025-09-28,Agroforestry,Mataindo,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
-2025,September,2025-09-29,Agroforestry,Mataindo utara,40,0,0,0,0,0,0,0,0,0,0,0,0,0,40
+2025,September,2025-09-29,Agroforestry,Mataindo Utara,40,0,0,0,0,0,0,0,0,0,0,0,0,0,40
 2025,September,2025-09-29,Agroforestry,Mataindo,20,5,5,0,0,0,0,0,0,0,0,0,0,0,30
 2025,October,2025-10-01,Agroforestry,Mataindo Utara,0,10,0,0,0,0,0,0,0,0,0,0,0,0,10
-2025,October,2025-10-02,Agroforestry,Mataindo utara,0,0,0,0,0,40,0,0,0,0,0,0,0,0,40
+2025,October,2025-10-02,Agroforestry,Mataindo Utara,0,0,0,0,0,40,0,0,0,0,0,0,0,0,40
 2025,October,2025-10-03,Agroforestry,Mataindo Utara,0,0,0,0,5,25,0,0,0,0,0,0,0,0,30
 2025,October,2025-10-04,Agroforestry,Mataindo Utara,0,10,0,0,0,0,0,0,0,0,0,0,0,0,10
-2025,October,2025-10-04,Agroforestry,Mataindo utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
+2025,October,2025-10-04,Agroforestry,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
 2025,October,2025-10-05,Agroforestry,Mataindo,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
-2025,October,2025-10-06,Agroforestry,Mataindo utara,0,0,1,0,0,15,0,0,0,0,0,0,0,0,16
-2025,October,2025-10-06,Agroforestry,Mataindo utara,0,0,1,0,0,30,0,0,0,0,0,0,0,0,31
+2025,October,2025-10-06,Agroforestry,Mataindo Utara,0,0,1,0,0,15,0,0,0,0,0,0,0,0,16
+2025,October,2025-10-06,Agroforestry,Mataindo Utara,0,0,1,0,0,30,0,0,0,0,0,0,0,0,31
 2025,October,2025-10-07,Agroforestry,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
 2025,October,2025-10-07,Agroforestry,Mataindo,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
-2025,October,2025-10-08,Agroforestry,Mataindo utara,0,25,0,0,0,15,0,0,0,0,0,0,0,0,40
+2025,October,2025-10-08,Agroforestry,Mataindo Utara,0,25,0,0,0,15,0,0,0,0,0,0,0,0,40
 2025,October,2025-10-09,Agroforestry,Mataindo,0,0,11,0,10,0,12,0,0,0,0,0,0,0,33
-2025,October,2025-10-09,Agroforestry,Mataindo utara,0,0,0,0,0,18,0,0,0,0,0,0,0,0,18
-2025,October,2025-10-09,Agroforestry,Mataindo utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2025,October,2025-10-09,Agroforestry,Mataindo Utara,0,0,0,0,0,18,0,0,0,0,0,0,0,0,18
+2025,October,2025-10-09,Agroforestry,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
 2025,October,2025-10-09,Agroforestry,Mataindo Utara,10,0,0,10,0,0,0,0,0,0,0,0,0,0,20
 2025,October,2025-10-09,Agroforestry,Mataindo,0,5,0,0,0,20,0,0,0,0,0,0,0,0,25
-2025,October,2025-10-10,Agroforestry,Mataindo utara,5,0,5,0,0,25,0,0,0,0,0,0,0,0,35
+2025,October,2025-10-10,Agroforestry,Mataindo Utara,5,0,5,0,0,25,0,0,0,0,0,0,0,0,35
 2025,October,2025-10-10,Agroforestry,Adow,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2025,October,2025-10-11,Agroforestry,Mataindo,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
-2025,October,2025-10-11,Agroforestry,Mataindo utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2025,October,2025-10-11,Agroforestry,Mataindo utara,0,0,1,0,0,20,0,0,0,0,0,0,0,0,21
+2025,October,2025-10-11,Agroforestry,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2025,October,2025-10-11,Agroforestry,Mataindo Utara,0,0,1,0,0,20,0,0,0,0,0,0,0,0,21
 2025,October,2025-10-12,Agroforestry,Mataindo,0,0,0,0,0,0,0,20,0,0,0,0,0,0,20
-2025,October,2025-10-12,Agroforestry,Mataindo utara,0,0,0,0,0,5,0,45,0,0,0,0,0,0,50
-2025,October,2025-10-12,Agroforestry,Mataindo utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
+2025,October,2025-10-12,Agroforestry,Mataindo Utara,0,0,0,0,0,5,0,45,0,0,0,0,0,0,50
+2025,October,2025-10-12,Agroforestry,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
 2025,October,2025-10-12,Agroforestry,Mataindo,30,5,0,0,0,0,0,0,0,0,0,0,0,0,35
-2025,October,2025-10-13,Agroforestry,Mataindo utara,0,5,5,0,0,35,0,0,0,0,0,0,0,0,45
+2025,October,2025-10-13,Agroforestry,Mataindo Utara,0,5,5,0,0,35,0,0,0,0,0,0,0,0,45
 2025,October,2025-10-13,Agroforestry,Mataindo,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
 2025,October,2025-10-13,Agroforestry,Mataindo,30,0,0,0,0,0,0,0,0,0,0,0,0,0,30
-2025,October,2025-10-13,Agroforestry,Mataindo utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
-2025,October,2025-10-14,Agroforestry,Mataindo utara,0,0,0,0,0,35,0,0,0,0,0,0,0,0,35
-2025,October,2025-10-14,Agroforestry,Mataindo utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
-2025,October,2025-10-14,Agroforestry,Mataindo utara,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
-2025,October,2025-10-15,Agroforestry,Mataindo utara,0,0,0,0,0,0,0,20,0,0,0,0,0,0,20
-2025,October,2025-10-15,Agroforestry,Mataindo utara,0,0,0,0,0,16,0,0,0,0,0,0,0,0,16
-2025,October,2025-10-15,Agroforestry,Mataindo utara,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
-2025,October,2025-10-16,Agroforestry,Mataindo utara,0,4,0,0,0,34,0,0,0,0,0,0,0,0,38
-2025,October,2025-10-16,Agroforestry,Mataindo utara,0,0,0,25,0,0,25,0,0,0,0,0,0,0,50
-2025,October,2025-10-17,Agroforestry,Mataindo utara,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
-2025,October,2025-10-18,Agroforestry,Mataindo utara,0,0,5,0,0,40,0,0,0,0,0,0,0,0,45
+2025,October,2025-10-13,Agroforestry,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
+2025,October,2025-10-14,Agroforestry,Mataindo Utara,0,0,0,0,0,35,0,0,0,0,0,0,0,0,35
+2025,October,2025-10-14,Agroforestry,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
+2025,October,2025-10-14,Agroforestry,Mataindo Utara,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
+2025,October,2025-10-15,Agroforestry,Mataindo Utara,0,0,0,0,0,0,0,20,0,0,0,0,0,0,20
+2025,October,2025-10-15,Agroforestry,Mataindo Utara,0,0,0,0,0,16,0,0,0,0,0,0,0,0,16
+2025,October,2025-10-15,Agroforestry,Mataindo Utara,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
+2025,October,2025-10-16,Agroforestry,Mataindo Utara,0,4,0,0,0,34,0,0,0,0,0,0,0,0,38
+2025,October,2025-10-16,Agroforestry,Mataindo Utara,0,0,0,25,0,0,25,0,0,0,0,0,0,0,50
+2025,October,2025-10-17,Agroforestry,Mataindo Utara,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
+2025,October,2025-10-18,Agroforestry,Mataindo Utara,0,0,5,0,0,40,0,0,0,0,0,0,0,0,45
 2025,October,2025-10-19,Agroforestry,Mataindo Utara,0,3,0,0,0,35,0,0,0,0,0,0,0,0,38
-2025,October,2025-10-19,Agroforestry,Mataindo utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
+2025,October,2025-10-19,Agroforestry,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
 2025,October,2025-10-19,Agroforestry,Mataindo,0,10,0,20,0,0,0,0,0,0,0,0,0,0,30
-2025,October,2025-10-20,Agroforestry,Mataindo utara,0,0,0,0,0,16,0,0,0,0,0,0,0,0,16
-2025,October,2025-10-20,Agroforestry,Mataindo utara,10,0,0,0,0,50,0,0,0,0,0,0,0,0,60
+2025,October,2025-10-20,Agroforestry,Mataindo Utara,0,0,0,0,0,16,0,0,0,0,0,0,0,0,16
+2025,October,2025-10-20,Agroforestry,Mataindo Utara,10,0,0,0,0,50,0,0,0,0,0,0,0,0,60
 2025,October,2025-10-21,Agroforestry,Mataindo Utara,0,4,0,0,0,10,0,0,0,0,0,0,0,0,14
-2025,October,2025-10-22,Agroforestry,Mataindo utara,0,0,0,0,0,14,0,0,0,0,0,0,0,0,14
+2025,October,2025-10-22,Agroforestry,Mataindo Utara,0,0,0,0,0,14,0,0,0,0,0,0,0,0,14
 2025,October,2025-10-22,Agroforestry,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
-2025,October,2025-10-23,Agroforestry,Mataindo utara,0,0,0,15,0,0,15,0,0,0,0,0,0,0,30
+2025,October,2025-10-23,Agroforestry,Mataindo Utara,0,0,0,15,0,0,15,0,0,0,0,0,0,0,30
 2025,October,2025-10-24,Agroforestry,Mataindo,45,0,0,0,0,0,0,0,0,0,0,0,0,0,45
-2025,October,2025-10-25,Agroforestry,Mataindo utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2025,October,2025-10-26,Agroforestry,Mataindo utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2025,October,2025-10-26,Agroforestry,Mataindo utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
+2025,October,2025-10-25,Agroforestry,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2025,October,2025-10-26,Agroforestry,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2025,October,2025-10-26,Agroforestry,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
 2025,October,2025-10-27,Agroforestry,Mataindo,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
 2025,October,2025-10-27,Agroforestry,Mataindo,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2025,October,2025-10-27,Agroforestry,Mataindo utara,0,0,0,0,0,35,0,0,0,0,0,0,0,0,35
-2025,October,2025-10-28,Agroforestry,Mataindo utara,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
-2025,October,2025-10-28,Agroforestry,Mataindo utara,0,0,0,0,0,35,0,0,0,0,0,0,0,0,35
+2025,October,2025-10-27,Agroforestry,Mataindo Utara,0,0,0,0,0,35,0,0,0,0,0,0,0,0,35
+2025,October,2025-10-28,Agroforestry,Mataindo Utara,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
+2025,October,2025-10-28,Agroforestry,Mataindo Utara,0,0,0,0,0,35,0,0,0,0,0,0,0,0,35
 2025,October,2025-10-29,Agroforestry,Mataindo,30,0,0,0,0,0,0,0,0,0,0,0,0,0,30
-2025,October,2025-10-29,Agroforestry,Mataindo utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
+2025,October,2025-10-29,Agroforestry,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
 2025,October,2025-10-30,Agroforestry,Torosik,0,0,4,0,0,16,0,4,0,0,0,0,0,0,24
 2025,October,2025-10-30,Agroforestry,Tobayagan Selatan,5,10,2,0,0,0,0,5,0,0,0,0,0,0,22
-2025,October,2025-10-31,Agroforestry,Mataindo utara,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
-2025,October,2025-10-31,Agroforestry,Mataindo utara,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
+2025,October,2025-10-31,Agroforestry,Mataindo Utara,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
+2025,October,2025-10-31,Agroforestry,Mataindo Utara,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
 2025,October,2025-10-31,Agroforestry,Mataindo,0,0,0,4,0,16,0,4,0,0,0,0,0,0,24
 2025,November,2025-11-01,Agroforestry,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
 2025,November,2025-11-01,Agroforestry,Mataindo,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
 2025,November,2025-11-01,Agroforestry,Mataindo,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
 2025,November,2025-11-01,Agroforestry,Deaga,10,10,6,0,0,0,0,0,0,0,0,0,0,0,26
-2025,November,2025-11-02,Agroforestry,Mataindo utara,0,0,0,0,0,19,0,0,0,0,0,0,0,0,19
+2025,November,2025-11-02,Agroforestry,Mataindo Utara,0,0,0,0,0,19,0,0,0,0,0,0,0,0,19
 2025,November,2025-11-02,Agroforestry,Mataindo,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
 2025,November,2025-11-02,Agroforestry,Mataindo,22,0,0,0,0,0,0,0,0,0,0,0,0,0,22
 2025,November,2025-11-02,Agroforestry,Adow,4,0,4,0,0,8,0,0,0,0,0,0,0,0,16
@@ -138,24 +138,24 @@ year,month,date,keperluan_dan_sumber_bibit,desa,pala,duku,durian,kemiri,cempaka,
 2025,November,2025-11-06,Agroforestry,Mataindo Utara,0,0,1,0,0,0,0,7,0,0,0,0,0,0,8
 2025,November,2025-11-07,Agroforestry,Mataindo Utara,0,0,3,0,0,29,0,0,0,0,0,0,0,0,32
 2025,November,2025-11-07,Agroforestry,Mataindo,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
-2025,November,2025-11-08,Agroforestry,Mataindo utara,0,7,0,0,0,43,0,0,0,0,0,0,0,0,50
-2025,November,2025-11-08,Agroforestry,Mataindo utara,0,2,0,0,0,50,0,0,0,0,0,0,0,0,52
+2025,November,2025-11-08,Agroforestry,Mataindo Utara,0,7,0,0,0,43,0,0,0,0,0,0,0,0,50
+2025,November,2025-11-08,Agroforestry,Mataindo Utara,0,2,0,0,0,50,0,0,0,0,0,0,0,0,52
 2025,November,2025-11-09,Agroforestry,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
 2025,November,2025-11-09,Agroforestry,Mataindo Utara,0,0,0,0,0,28,0,0,0,0,0,0,0,0,28
 2025,November,2025-11-10,Agroforestry,Torosik,0,10,10,0,0,0,0,10,0,0,0,0,0,0,30
 2025,November,2025-11-10,Agroforestry,Mataindo Utara,0,0,0,0,0,10,0,14,0,0,0,0,0,0,24
 2025,November,2025-11-10,Agroforestry,Mataindo,0,0,0,0,0,31,0,0,0,0,0,0,0,0,31
 2025,November,2025-11-10,Agroforestry,Mataindo,0,0,0,0,0,31,0,0,0,0,0,0,0,0,31
-2025,November,2025-11-11,Agroforestry,Mataindo utara,20,0,0,0,0,15,0,0,0,0,0,0,0,0,35
+2025,November,2025-11-11,Agroforestry,Mataindo Utara,20,0,0,0,0,15,0,0,0,0,0,0,0,0,35
 2025,November,2025-11-11,Agroforestry,Mataindo,3,0,0,0,0,15,0,0,0,0,0,0,0,0,18
 2025,November,2025-11-11,Agroforestry,Mataindo,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
-2025,November,2025-11-12,Agroforestry,Mataindo utara,0,0,0,0,0,0,0,15,0,0,0,0,0,0,15
-2025,November,2025-11-12,Agroforestry,Mataindo utara,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
-2025,November,2025-11-12,Agroforestry,Mataindo utara,0,0,1,0,0,34,0,0,0,0,0,0,0,0,35
+2025,November,2025-11-12,Agroforestry,Mataindo Utara,0,0,0,0,0,0,0,15,0,0,0,0,0,0,15
+2025,November,2025-11-12,Agroforestry,Mataindo Utara,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
+2025,November,2025-11-12,Agroforestry,Mataindo Utara,0,0,1,0,0,34,0,0,0,0,0,0,0,0,35
 2025,November,2025-11-13,Agroforestry,Mataindo Utara,41,5,1,0,0,30,0,0,0,0,0,0,0,0,77
 2025,November,2025-11-13,Agroforestry,Mataindo,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
 2025,November,2025-11-13,Agroforestry,Mataindo,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
-2025,November,2025-11-14,Agroforestry,Mataindo utara,0,0,0,0,0,36,0,0,0,0,0,0,0,0,36
+2025,November,2025-11-14,Agroforestry,Mataindo Utara,0,0,0,0,0,36,0,0,0,0,0,0,0,0,36
 2025,November,2025-11-14,Agroforestry,Mataindo,0,0,0,0,0,45,0,0,0,0,0,0,0,0,45
 2025,November,2025-11-14,Agroforestry,Mataindo,0,0,0,0,0,35,0,0,0,0,0,0,0,0,35
 2025,November,2025-11-15,Agroforestry,Mataindo Utara,31,0,0,0,0,0,0,0,0,0,0,0,0,0,31
@@ -164,9 +164,9 @@ year,month,date,keperluan_dan_sumber_bibit,desa,pala,duku,durian,kemiri,cempaka,
 2025,November,2025-11-16,Agroforestry,Mataindo,0,0,0,0,0,49,0,0,0,0,0,0,0,0,49
 2025,November,2025-11-17,Agroforestry,Mataindo,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
 2025,November,2025-11-17,Agroforestry,Mataindo,0,0,20,0,0,0,0,0,0,0,0,0,0,0,20
-2025,November,2025-11-18,Agroforestry,Mataindo utara,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
+2025,November,2025-11-18,Agroforestry,Mataindo Utara,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
 2025,November,2025-11-18,Agroforestry,Mataindo Utara,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
-2025,November,2025-11-19,Agroforestry,Mataindo utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2025,November,2025-11-19,Agroforestry,Mataindo Utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
 2025,November,2025-11-19,Agroforestry,Mataindo,50,0,0,0,0,0,0,0,0,0,0,0,0,0,50
 2025,November,2025-11-19,Agroforestry,Adow,40,10,10,0,0,30,0,10,0,0,0,0,0,0,100
 2025,November,2025-11-20,Agroforestry,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
@@ -179,7 +179,7 @@ year,month,date,keperluan_dan_sumber_bibit,desa,pala,duku,durian,kemiri,cempaka,
 2025,November,2025-11-21,Agroforestry,Mataindo,0,0,0,0,0,59,0,0,0,0,0,0,0,0,59
 2025,November,2025-11-21,Agroforestry,Mataindo,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
 2025,November,2025-11-22,Agroforestry,Mataindo Utara,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
-2025,November,2025-11-22,Agroforestry,Mataindo utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2025,November,2025-11-22,Agroforestry,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
 2025,November,2025-11-22,Agroforestry,Mataindo Utara,0,0,15,0,0,0,0,0,0,0,0,0,0,0,15
 2025,November,2025-11-22,Agroforestry,Torosik,10,0,10,0,0,30,0,0,0,0,0,0,0,0,50
 2025,November,2025-11-23,Agroforestry,Mataindo,0,0,0,0,0,53,0,0,0,0,0,0,0,0,53
@@ -199,20 +199,20 @@ year,month,date,keperluan_dan_sumber_bibit,desa,pala,duku,durian,kemiri,cempaka,
 2025,November,2025-11-29,Agroforestry,Mataindo Utara,33,0,0,0,0,0,0,0,0,0,0,0,0,0,33
 2025,November,2025-11-29,Agroforestry,Mataindo Utara,0,10,0,0,0,24,0,0,0,0,0,0,0,0,34
 2025,November,2025-11-29,Restorasi,Pusian Barat,3,0,3,3,0,0,0,0,0,0,0,0,0,0,9
-2025,November,2025-11-30,Agroforestry,Mataindo utara,0,1,0,0,0,105,0,5,0,0,0,0,0,0,111
+2025,November,2025-11-30,Agroforestry,Mataindo Utara,0,1,0,0,0,105,0,5,0,0,0,0,0,0,111
 2025,November,2025-11-30,Agroforestry,Mataindo,19,0,2,0,0,20,0,0,0,0,0,0,0,0,41
 2025,December,2025-12-01,Agroforestry,Mataindo,61,0,0,0,0,0,0,0,0,0,0,0,0,0,61
 2025,December,2025-12-01,Agroforestry,Adow,40,10,10,0,0,30,0,10,0,0,0,0,0,0,100
 2025,December,2025-12-01,Agroforestry,Torosik,0,10,10,0,0,30,0,10,0,0,0,0,0,0,60
 2025,December,2025-12-01,Agroforestry,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2025,December,2025-12-01,Agroforestry,Mataindo utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
+2025,December,2025-12-01,Agroforestry,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
 2025,December,2025-12-02,Agroforestry,Mataindo,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
 2025,December,2025-12-02,Agroforestry,Mataindo,42,0,20,0,0,0,0,0,0,0,0,0,0,0,62
 2025,December,2025-12-02,Agroforestry,Torosik,0,10,10,0,0,30,0,10,0,0,0,0,0,0,60
 2025,December,2025-12-02,Agroforestry,Mataindo Utara,10,0,5,0,0,20,0,0,0,0,0,0,0,0,35
 2025,December,2025-12-03,Agroforestry,Adow,25,10,10,0,0,45,0,10,0,0,0,0,0,0,100
 2025,December,2025-12-03,Agroforestry,Mataindo,5,15,0,0,0,30,0,0,0,0,0,0,0,0,50
-2025,December,2025-12-03,Agroforestry,Mataindo utara,0,0,0,0,0,40,4,0,0,0,0,0,0,0,44
+2025,December,2025-12-03,Agroforestry,Mataindo Utara,0,0,0,0,0,40,4,0,0,0,0,0,0,0,44
 2025,December,2025-12-04,Agroforestry,Mataindo,0,0,15,0,0,0,0,5,0,0,0,0,0,0,20
 2025,December,2025-12-04,Agroforestry,Mataindo,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
 2025,December,2025-12-04,Agroforestry,Torosik,20,10,5,0,0,30,0,5,0,0,0,0,0,0,70
@@ -303,13 +303,13 @@ year,month,date,keperluan_dan_sumber_bibit,desa,pala,duku,durian,kemiri,cempaka,
 2026,January,2026-01-08,Agroforestry,Mataindo,23,0,0,0,0,0,0,0,0,0,0,0,0,0,23
 2026,January,2026-01-08,Agroforestry,Adow,0,2,0,0,0,30,0,2,0,0,0,0,0,0,34
 2026,January,2026-01-09,Agroforestry,Mataindo,0,0,21,0,0,0,0,0,0,0,0,0,0,0,21
-2026,January,2026-01-09,Agroforestry,Mataindo utara,0,0,0,0,0,0,0,13,0,0,0,0,0,0,13
+2026,January,2026-01-09,Agroforestry,Mataindo Utara,0,0,0,0,0,0,0,13,0,0,0,0,0,0,13
 2026,January,2026-01-09,Agroforestry,Torosik,0,10,10,0,0,30,0,10,0,0,0,0,0,0,60
 2026,January,2026-01-09,Agroforestry,Mataindo Utara,0,0,0,0,0,0,0,27,0,0,0,0,0,0,27
 2026,January,2026-01-09,Agroforestry,Adow,0,10,10,0,0,30,0,20,0,0,0,0,0,0,70
 2026,January,2026-01-10,Agroforestry,Torosik,0,3,2,0,0,30,0,0,0,0,0,0,0,0,35
 2026,January,2026-01-10,Agroforestry,Adow,0,8,0,0,0,30,0,9,0,0,0,0,0,0,47
-2026,January,2026-01-10,Agroforestry,Mataindo utara,0,0,0,0,0,53,0,0,0,0,0,0,0,0,53
+2026,January,2026-01-10,Agroforestry,Mataindo Utara,0,0,0,0,0,53,0,0,0,0,0,0,0,0,53
 2026,January,2026-01-10,Agroforestry,Mataindo,51,0,0,0,0,0,0,0,0,0,0,0,0,0,51
 2026,January,2026-01-11,Agroforestry,Torosik,0,5,0,0,0,30,0,10,0,0,0,0,0,0,45
 2026,January,2026-01-11,Agroforestry,Mataindo Utara,0,0,10,0,0,35,0,0,0,0,0,0,0,0,45
@@ -320,11 +320,11 @@ year,month,date,keperluan_dan_sumber_bibit,desa,pala,duku,durian,kemiri,cempaka,
 2026,January,2026-01-14,Agroforestry,Mataindo,50,0,0,0,0,0,0,0,0,0,0,0,0,0,50
 2026,January,2026-01-15,Agroforestry,Mataindo,0,0,12,0,0,0,0,0,0,0,0,0,0,0,12
 2026,January,2026-01-15,Agroforestry,Mataindo Utara,0,0,10,0,0,0,0,0,0,0,0,0,0,0,10
-2026,January,2026-01-15,Agroforestry,Mataindo utara,0,1,1,0,0,0,0,14,0,0,0,0,0,0,16
+2026,January,2026-01-15,Agroforestry,Mataindo Utara,0,1,1,0,0,0,0,14,0,0,0,0,0,0,16
 2026,January,2026-01-16,Agroforestry,Mataindo,35,0,0,0,0,0,0,0,0,0,0,0,0,0,35
-2026,January,2026-01-16,Agroforestry,Mataindo utara,0,0,1,0,0,10,0,0,0,0,0,0,0,0,11
-2026,January,2026-01-16,Agroforestry,Mataindo utara,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
-2026,January,2026-01-17,Agroforestry,Mataindo utara,0,0,0,0,0,12,0,0,0,0,0,0,0,0,12
+2026,January,2026-01-16,Agroforestry,Mataindo Utara,0,0,1,0,0,10,0,0,0,0,0,0,0,0,11
+2026,January,2026-01-16,Agroforestry,Mataindo Utara,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+2026,January,2026-01-17,Agroforestry,Mataindo Utara,0,0,0,0,0,12,0,0,0,0,0,0,0,0,12
 2026,January,2026-01-18,Agroforestry,Torosik,0,5,5,0,0,30,0,5,0,0,0,0,0,0,45
 2026,January,2026-01-19,Agroforestry,Adow,0,5,0,0,0,35,0,10,0,0,0,0,0,0,50
 2026,January,2026-01-19,Agroforestry,Mataindo Utara,0,0,5,0,0,10,0,0,0,0,0,0,0,0,15
@@ -338,28 +338,28 @@ year,month,date,keperluan_dan_sumber_bibit,desa,pala,duku,durian,kemiri,cempaka,
 2026,January,2026-01-25,Agroforestry,Adow,0,10,10,0,0,33,0,20,0,0,0,0,0,0,73
 2026,January,2026-01-26,Agroforestry,Mataindo Utara,0,0,6,0,0,0,0,0,0,0,0,0,0,0,6
 2026,January,2026-01-26,Agroforestry,Mataindo Utara,0,0,1,0,0,3,0,0,0,0,0,0,0,0,4
-2026,January,2026-01-27,Agroforestry,Mataindo utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
+2026,January,2026-01-27,Agroforestry,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
 2026,January,2026-01-27,Agroforestry,Adow,0,5,5,0,0,30,0,5,0,0,0,0,0,0,45
-2026,January,2026-01-29,Agroforestry,Mataindo utara,0,0,1,0,0,20,0,0,0,0,0,0,0,0,21
+2026,January,2026-01-29,Agroforestry,Mataindo Utara,0,0,1,0,0,20,0,0,0,0,0,0,0,0,21
 2026,January,2026-01-29,Agroforestry,Adow,60,20,5,0,0,30,0,20,0,0,0,0,0,0,135
 2026,January,2026-01-29,Agroforestry,Mataindo,0,2,0,0,0,0,0,15,0,5,0,0,0,0,22
 2026,January,2026-01-30,Agroforestry,Mataindo Utara,0,0,3,0,0,12,0,0,0,0,0,0,0,0,15
 2026,January,2026-01-30,Restorasi,Pusian Barat,49,0,22,0,0,0,0,24,0,0,0,0,0,0,95
-2026,January,2026-01-31,Agroforestry,Mataindo utara,0,0,1,0,0,10,0,0,0,0,0,0,0,0,11
+2026,January,2026-01-31,Agroforestry,Mataindo Utara,0,0,1,0,0,10,0,0,0,0,0,0,0,0,11
 2026,January,2026-01-31,Agroforestry,Mataindo Utara,0,0,1,0,0,9,0,0,0,0,0,0,0,0,10
 2026,January,2026-01-31,Agroforestry,Adow,0,5,0,0,0,30,0,19,0,0,0,0,0,0,54
 2026,January,2026-01-31,Restorasi,Pusian Barat,8,0,4,0,0,0,0,0,0,0,0,0,0,0,12
-2026,February,2026-02-01,Agroforestry,Mataindo utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2026,February,2026-02-01,Agroforestry,Mataindo utara,0,0,0,0,0,0,0,12,0,0,0,0,0,0,12
+2026,February,2026-02-01,Agroforestry,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2026,February,2026-02-01,Agroforestry,Mataindo Utara,0,0,0,0,0,0,0,12,0,0,0,0,0,0,12
 2026,February,2026-02-01,Agroforestry,Adow,0,0,5,0,0,30,0,5,0,0,0,0,0,0,40
-2026,February,2026-02-01,Agroforestry,Mopopungu,10,0,0,0,0,5,0,0,0,0,0,0,0,0,15
+2026,February,2026-02-01,Agroforestry,Mataindo Utara,10,0,0,0,0,5,0,0,0,0,0,0,0,0,15
 2026,February,2026-02-01,Restorasi,Pusian Barat,0,0,98,0,0,0,0,27,0,0,0,0,0,0,125
 2026,February,2026-02-02,Agroforestry,Mataindo Utara,0,0,0,0,0,7,0,0,0,0,0,0,0,0,7
-2026,February,2026-02-02,Agroforestry,Mataindo utara,10,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2026,February,2026-02-02,Agroforestry,Mataindo Utara,10,0,0,0,0,0,0,0,0,0,0,0,0,0,10
 2026,February,2026-02-02,Restorasi,Pusian Barat,63,0,24,0,0,0,0,56,0,0,0,0,0,0,143
-2026,February,2026-02-03,Agroforestry,Mataindo utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
-2026,February,2026-02-04,Agroforestry,Mataindo utara,0,0,1,0,0,10,0,0,0,0,0,0,0,0,11
-2026,February,2026-02-04,Agroforestry,Mataindo utara,0,0,0,0,0,16,0,0,0,0,0,0,0,0,16
+2026,February,2026-02-03,Agroforestry,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
+2026,February,2026-02-04,Agroforestry,Mataindo Utara,0,0,1,0,0,10,0,0,0,0,0,0,0,0,11
+2026,February,2026-02-04,Agroforestry,Mataindo Utara,0,0,0,0,0,16,0,0,0,0,0,0,0,0,16
 2026,February,2026-02-04,Agroforestry,Adow,0,5,3,0,0,15,0,20,0,0,0,0,0,0,43
 2026,February,2026-02-05,Agroforestry,Adow,0,5,0,0,0,30,0,5,0,0,0,0,0,0,40
 2026,February,2026-02-05,Agroforestry,Mataindo Utara,3,1,1,0,0,8,0,0,0,0,0,0,0,0,13
@@ -407,11 +407,11 @@ year,month,date,keperluan_dan_sumber_bibit,desa,pala,duku,durian,kemiri,cempaka,
 2026,March,2026-03-01,Agroforestry,Mataindo Utara,0,0,1,0,0,0,0,8,0,0,0,0,0,0,9
 2026,March,2026-03-01,Agroforestry,Mataindo Utara,0,0,1,0,0,11,0,0,0,0,0,0,0,0,12
 2026,March,2026-03-02,Agroforestry,Mataindo Utara,0,0,1,0,0,0,0,13,0,0,0,0,0,0,14
-2026,March,2026-03-03,Restorasi,Lainnya,0,0,20,0,0,0,0,0,0,0,0,0,0,0,20
+2026,March,2026-03-03,Restorasi,Pusian Barat,0,0,20,0,0,0,0,0,0,0,0,0,0,0,20
 2026,March,2026-03-03,Agroforestry,Mataindo,0,0,1,0,0,0,0,19,0,0,0,0,0,0,20
-2026,March,2026-03-04,Restorasi,Lainnya,0,0,5,0,0,0,0,47,0,0,0,0,0,0,52
+2026,March,2026-03-04,Restorasi,Pusian Barat,0,0,5,0,0,0,0,47,0,0,0,0,0,0,52
 2026,March,2026-03-04,Agroforestry,Mataindo Utara,5,0,0,0,0,10,0,0,0,0,0,0,0,0,15
-2026,March,2026-03-05,Restorasi,Lainnya,0,0,26,0,0,0,0,36,0,0,0,0,0,0,62
+2026,March,2026-03-05,Restorasi,Pusian Barat,0,0,26,0,0,0,0,36,0,0,0,0,0,0,62
 2026,March,2026-03-05,Agroforestry,Mataindo Utara,0,0,0,0,0,0,0,10,0,0,0,0,0,0,10
 2026,March,2026-03-06,Agroforestry,Mataindo Utara,10,0,0,0,0,12,0,0,0,0,0,0,0,0,22
 2026,March,2026-03-07,Agroforestry,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
