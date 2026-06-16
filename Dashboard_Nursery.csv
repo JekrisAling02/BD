@@ -6,8 +6,7 @@ year,month,date,keperluan_dan_sumber_bibit,status,lokasi,desa,pala,duku,durian,k
 2025,August,2025-08-31,Pembibitan Mandiri,Masuk,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,0,0,700,0,0,0,0,700
 2025,September,2025-09-29,Hidaya Paputungan (Masyarakat Mataindo Utara),Masuk,KHLTB,Mataindo Utara,0,0,0,0,0,350,0,0,0,0,0,0,0,0,350
 2025,October,2025-10-03,Gorontalo,Masuk,KHLTB,Mataindo Utara,0,0,520,0,0,0,0,5745,0,0,0,0,0,0,6265
-2025,October,2025-10-04,"Tapadaka, Dumoga",Masuk,KHLTB,Mataindo Utara,0,0,0,0,0,2066,0,0,0,0,0,0,0,0,2066
-2025,October,2025-10-04,"Tapadaka, Dumoga",Masuk,KHLTB,Mataindo Utara,0,0,0,0,0,5279,0,0,0,0,0,0,0,0,5279
+2025,October,2025-10-04,"Tapadaka, Dumoga",Masuk,KHLTB,Mataindo Utara,0,0,0,0,0,7345,0,0,0,0,0,0,0,0,7345
 2025,October,2025-10-08,Sulawesi Tengah,Masuk,KHLTB,Mataindo Utara,5690,0,0,0,0,0,0,0,0,0,0,0,0,0,5690
 2025,October,2025-10-08,Sulawesi Tengah,Masuk,KHLTB,Mataindo Utara,0,0,2570,0,0,0,0,0,0,0,0,0,0,0,2570
 2025,October,2025-10-08,Sulawesi Tengah,Masuk,KHLTB,Mataindo Utara,0,2520,0,0,0,0,0,0,0,0,0,0,0,0,2520
@@ -15,7 +14,7 @@ year,month,date,keperluan_dan_sumber_bibit,status,lokasi,desa,pala,duku,durian,k
 2025,October,2025-10-09,Sulawesi Tengah,Masuk,KHLTB,Adow,0,0,2546,0,0,0,0,0,0,0,0,0,0,0,2546
 2025,October,2025-10-09,Sulawesi Tengah,Masuk,KHLTB,Adow,0,2504,0,0,0,0,0,0,0,0,0,0,0,0,2504
 2025,October,2025-10-09,Gorontalo,Masuk,KEMP,Pusian Barat,0,0,0,0,0,0,0,1948,0,0,0,0,0,0,1948
-2025,October,2025-10-09,Cabutan,Masuk,KEMP,Pusian Barat,0,1983,0,1656,0,0,0,0,0,0,0,0,0,0,3639
+2025,October,2025-10-09,Cabutan,Masuk,KEMP,Pusian Barat,1983,0,1656,0,0,0,0,0,0,0,0,0,0,0,3639
 2025,November,2025-11-07,Sulawesi Tengah,Masuk,KEMP,Pusian Barat,0,0,0,2125,0,0,0,0,0,0,0,0,0,0,2125
 2025,November,2025-11-23,Sulawesi Tengah,Masuk,KHLTB,Adow,0,0,0,1682,0,0,0,0,0,0,0,0,0,0,1682
 2025,November,2025-11-23,Sulawesi Tengah,Masuk,KHLTB,Mataindo Utara,0,0,0,2332,0,0,0,0,0,0,0,0,0,0,2332
@@ -25,7 +24,7 @@ year,month,date,keperluan_dan_sumber_bibit,status,lokasi,desa,pala,duku,durian,k
 2026,January,2026-01-31,Cabutan,Masuk,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,0,0,160,0,0,0,0,160
 2026,February,2026-02-22,Cabutan,Masuk,KHLTB,Mataindo Utara,0,0,0,0,0,0,120,0,0,0,0,0,0,0,120
 2026,March,2026-03-04,Pembibitan Mandiri,Masuk,KEMP,Pusian Barat,13,0,0,124,0,0,0,0,0,0,0,0,0,0,137
-2026,April,2026-04-06,Pembibitan Mandiri,Masuk,KEMP,Pusian Barat,23,0,0,26,1066,0,0,0,0,0,0,0,0,0,1115
+2026,April,2026-04-06,Pembibitan Mandiri,Masuk,KEMP,Pusian Barat,33,0,0,26,1066,0,0,0,0,0,0,0,0,0,1125
 2026,April,2026-04-19,Kotamobagu,Masuk,KHLTB,Adow,0,0,0,0,0,0,0,0,0,0,500,0,0,0,500
 2026,April,2026-04-27,Gorontalo,Masuk,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,0,0,0,0,200,0,0,200
 2026,April,2026-04-25,SMART Patrol,Masuk,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,0,0,0,0,0,15,12,27
