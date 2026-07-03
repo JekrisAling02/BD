@@ -1,588 +1,588 @@
 year,month,date,keperluan_dan_sumber_bibit,status,lokasi,desa,pala,duku,durian,kemiri,cempaka,coklat,nantu,alpukat,matoa,kopi,cengkeh,lada,aren,pinang,total
-2025,July,2025-07-04,Bpdas Tondano  ,Masuk,KHLTB,Mataindo Utara,999,1559,997,1012,1118,0,0,0,0,0,0,0,0,0,5685
-2025,July,2025-07-31,Masyarakat Mataindo Alwiyah  ,Masuk,KHLTB,Mataindo Utara,425,0,0,0,0,0,0,0,0,0,0,0,0,0,425
-2025,August,2025-08-14,Masyarakat Mataindo Alwiyah  ,Masuk,KHLTB,Mataindo Utara,100,0,0,0,0,0,0,0,0,0,0,0,0,0,100
-2025,August,2025-08-31,Masyarakat Mataindo Alwiyah  ,Masuk,KHLTB,Mataindo Utara,200,0,0,0,0,0,0,0,0,0,0,0,0,0,200
-2025,August,2025-08-05,  Agroforestry,Keluar,KHLTB,Mataindo Utara,5,3,3,0,4,0,0,0,0,0,0,0,0,0,15
-2025,September,2025-09-29,Masyarakat Mataindo Utara Hidaya Paputungan  ,Masuk,KHLTB,Mataindo Utara,0,0,0,0,0,350,0,0,0,0,0,0,0,0,350
-2025,October,2025-10-03,Gorontalo  ,Masuk,KHLTB,Mataindo Utara,0,0,520,0,0,0,0,5745,0,0,0,0,0,0,6265
-2025,October,2025-10-04,Tapadaka Dumoga  ,Masuk,KHLTB,Mataindo Utara,0,0,0,0,0,7345,0,0,0,0,0,0,0,0,7345
-2025,October,2025-10-08,Sulawesi Tengah  ,Masuk,KHLTB,Mataindo Utara,5690,2520,2570,0,0,0,0,0,0,0,0,0,0,0,10780
-2025,October,2025-10-09,Sulawesi Tengah  ,Masuk,KHLTB,Lainnya,1983,0,1656,0,0,0,0,0,0,0,0,0,0,0,3639
-2025,October,2025-10-09,Gorontalo  ,Masuk,KHLTB,Lainnya,0,0,0,0,0,0,0,1948,0,0,0,0,0,0,1948
-2025,October,2025-10-09,Sulawesi Tengah  ,Masuk,KHLTB,Adow,4531,2504,2546,0,0,0,0,0,0,0,0,0,0,0,9581
-2025,October,2025-10-08,  ,Mati,KHLTB,Adow,81,45,33,0,0,0,0,0,0,0,0,0,0,0,159
-2025,October,2025-10-09,  ,Mati,KHLTB,Lainnya,5,0,49,0,0,0,0,72,0,0,0,0,0,0,126
-2025,October,2025-10-08,  ,Mati,KHLTB,Mataindo Utara,0,70,17,0,0,0,0,0,0,0,0,0,0,0,87
-2025,November,2025-11-07,Sulawesi Tengah  ,Masuk,KHLTB,Lainnya,0,0,0,2125,0,0,0,0,0,0,0,0,0,0,2125
-2025,December,2025-12-16,  ,Mati,KHLTB,Lainnya,0,0,0,892,0,0,0,0,0,0,0,0,0,0,892
-2025,November,2025-11-23,Sulawesi Tengah  ,Masuk,KHLTB,Mataindo Utara,0,0,0,2332,0,0,0,0,0,0,0,0,0,0,2332
-2025,December,2025-12-15,  ,Mati,KHLTB,Mataindo Utara,0,0,0,1058,0,0,0,0,0,0,0,0,0,0,1058
-2025,September,2025-09-10,  Agroforestry,Keluar,KHLTB,Mataindo Utara,20,0,0,8,0,0,0,0,0,0,0,0,0,0,28
-2025,September,2025-09-14,  Agroforestry,Keluar,KHLTB,Mataindo,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
-2025,September,2025-09-15,  Agroforestry,Keluar,KHLTB,Mataindo Utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
-2025,September,2025-09-17,  Agroforestry,Keluar,KHLTB,Mataindo,20,0,0,0,5,0,0,0,0,0,0,0,0,0,25
-2025,September,2025-09-17,  Agroforestry,Keluar,KHLTB,Mataindo,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
-2025,September,2025-09-18,  Agroforestry,Keluar,KHLTB,Mataindo,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
-2025,September,2025-09-18,  Agroforestry,Keluar,KHLTB,Mataindo,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
-2025,September,2025-09-18,  Agroforestry,Keluar,KHLTB,Mataindo,15,0,0,0,0,0,0,0,0,0,0,0,0,0,15
-2025,September,2025-09-20,  Agroforestry,Keluar,KHLTB,Mataindo,20,0,10,0,0,0,0,0,0,0,0,0,0,0,30
-2025,September,2025-09-22,  Agroforestry,Keluar,KHLTB,Mataindo,40,20,0,0,0,0,0,0,0,0,0,0,0,0,60
-2025,September,2025-09-26,  Agroforestry,Keluar,KHLTB,Mataindo Utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
-2025,September,2025-09-28,  Agroforestry,Keluar,KHLTB,Mataindo Utara,10,0,0,0,0,0,0,0,0,0,0,0,0,0,10
-2025,September,2025-09-28,  Agroforestry,Keluar,KHLTB,Mataindo,0,10,0,0,0,0,0,0,0,0,0,0,0,0,10
-2025,September,2025-09-28,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
-2025,October,2025-10-01,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,10,0,0,0,0,0,0,0,0,0,0,0,0,10
-2025,October,2025-10-03,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,5,25,0,0,0,0,0,0,0,0,30
-2025,October,2025-10-04,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,10,0,0,0,0,0,0,0,0,0,0,0,0,10
-2025,October,2025-10-09,  Agroforestry,Keluar,KHLTB,Mataindo Utara,10,0,0,10,0,0,0,0,0,0,0,0,0,0,20
-2025,October,2025-10-11,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,20,0,0,0,0,0,0,0,0,21
-2025,October,2025-10-12,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,0,0,20,0,0,0,0,0,0,20
-2025,October,2025-10-12,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
-2025,October,2025-10-12,  Agroforestry,Keluar,KHLTB,Mataindo,30,5,0,0,0,0,0,0,0,0,0,0,0,0,35
-2025,October,2025-10-13,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
-2025,October,2025-10-13,  Agroforestry,Keluar,KHLTB,Mataindo,30,0,0,0,0,0,0,0,0,0,0,0,0,0,30
-2025,October,2025-10-13,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
-2025,October,2025-10-16,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,4,0,0,0,34,0,0,0,0,0,0,0,0,38
-2025,October,2025-10-19,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,3,0,0,0,35,0,0,0,0,0,0,0,0,38
-2025,October,2025-10-20,  Agroforestry,Keluar,KHLTB,Mataindo Utara,10,0,0,0,0,50,0,0,0,0,0,0,0,0,60
-2025,October,2025-10-21,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,4,0,0,0,10,0,0,0,0,0,0,0,0,14
-2025,October,2025-10-22,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
-2025,October,2025-10-24,  Agroforestry,Keluar,KHLTB,Mataindo,45,0,0,0,0,0,0,0,0,0,0,0,0,0,45
-2025,October,2025-10-25,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2025,October,2025-10-27,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
-2025,October,2025-10-27,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2025,October,2025-10-27,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,35,0,0,0,0,0,0,0,0,35
-2025,October,2025-10-29,  Agroforestry,Keluar,KHLTB,Mataindo,30,0,0,0,0,0,0,0,0,0,0,0,0,0,30
-2025,October,2025-10-30,  Agroforestry,Keluar,KHLTB,Torosik,0,0,4,0,0,16,0,4,0,0,0,0,0,0,24
-2025,November,2025-11-01,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2025,November,2025-11-03,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
-2025,November,2025-11-04,  Agroforestry,Keluar,KHLTB,Mataindo,46,0,0,0,0,0,0,0,0,0,0,0,0,0,46
-2025,November,2025-11-05,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
-2025,November,2025-11-05,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,15,0,0,0,0,0,0,15
-2025,November,2025-11-05,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2025,November,2025-11-06,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
-2025,November,2025-11-06,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
-2025,November,2025-11-07,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,3,0,0,29,0,0,0,0,0,0,0,0,32
-2025,November,2025-11-07,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
-2025,November,2025-11-09,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
-2025,November,2025-11-09,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,28,0,0,0,0,0,0,0,0,28
-2025,November,2025-11-10,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,10,0,14,0,0,0,0,0,0,24
-2025,November,2025-11-10,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,31,0,0,0,0,0,0,0,0,31
-2025,November,2025-11-10,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,31,0,0,0,0,0,0,0,0,31
-2025,November,2025-11-11,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
-2025,November,2025-11-13,  Agroforestry,Keluar,KHLTB,Mataindo Utara,41,5,1,0,0,30,0,0,0,0,0,0,0,0,77
-2025,November,2025-11-14,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,45,0,0,0,0,0,0,0,0,45
-2025,November,2025-11-14,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,35,0,0,0,0,0,0,0,0,35
-2025,November,2025-11-15,  Agroforestry,Keluar,KHLTB,Mataindo Utara,31,0,0,0,0,0,0,0,0,0,0,0,0,0,31
-2025,November,2025-11-16,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,8,10,0,0,0,0,9,0,0,0,0,0,0,27
-2025,November,2025-11-16,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,49,0,0,0,0,0,0,0,0,49
-2025,November,2025-11-17,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
-2025,November,2025-11-17,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,20,0,0,0,0,0,0,0,0,0,0,0,20
-2025,November,2025-11-18,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
-2025,November,2025-11-19,  Agroforestry,Keluar,KHLTB,Mataindo,50,0,0,0,0,0,0,0,0,0,0,0,0,0,50
-2025,November,2025-11-19,  Agroforestry,Keluar,KHLTB,Adow,40,10,10,0,0,30,0,10,0,0,0,0,0,0,100
-2025,November,2025-11-20,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2025,November,2025-11-20,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
-2025,November,2025-11-20,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
-2025,November,2025-11-20,  Agroforestry,Keluar,KHLTB,Torosik,50,0,20,0,0,30,0,0,0,0,0,0,0,0,100
-2025,November,2025-11-21,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
-2025,November,2025-11-21,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
-2025,November,2025-11-22,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2025,November,2025-11-22,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,15,0,0,0,0,0,0,0,0,0,0,0,15
-2025,November,2025-11-23,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,53,0,0,0,0,0,0,0,0,53
-2025,November,2025-11-23,  Agroforestry,Keluar,KHLTB,Torosik,0,5,5,0,0,30,0,0,0,0,0,0,0,0,40
-2025,November,2025-11-23,  Agroforestry,Keluar,KHLTB,Mataindo Utara,15,0,0,0,0,0,0,0,0,0,0,0,0,0,15
-2025,November,2025-11-24,  Agroforestry,Keluar,KHLTB,Mataindo,30,0,3,0,0,17,0,0,0,0,0,0,0,0,50
-2025,November,2025-11-24,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,8,0,0,0,0,0,0,0,0,0,0,0,8
-2025,November,2025-11-25,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,26,0,0,0,0,0,0,0,0,26
-2025,November,2025-11-25,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,11,0,0,0,0,0,0,0,0,0,0,0,11
-2025,November,2025-11-26,  Agroforestry,Keluar,KHLTB,Torosik,5,0,5,0,0,30,0,10,0,0,0,0,0,0,50
-2025,November,2025-11-27,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,52,0,0,0,0,0,0,0,0,52
-2025,November,2025-11-28,  Agroforestry,Keluar,KHLTB,Mataindo Utara,29,0,0,0,0,47,0,0,0,0,0,0,0,0,76
-2025,November,2025-11-28,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,53,0,0,0,0,0,0,0,0,53
-2025,November,2025-11-29,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,1,0,0,10,5,0,0,0,0,0,0,0,0,16
-2025,November,2025-11-29,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,10,0,0,0,24,0,0,0,0,0,0,0,0,34
-2025,November,2025-11-29,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
-2025,November,2025-11-30,  Agroforestry,Keluar,KHLTB,Mataindo,19,0,2,0,0,20,0,0,0,0,0,0,0,0,41
-2025,September,2025-09-07,  Agroforestry,Keluar,KHLTB,Mataindo Utara,20,10,0,0,0,0,0,0,0,0,0,0,0,0,30
-2025,September,2025-09-12,  Agroforestry,Keluar,KHLTB,Mataindo Utara,15,0,0,10,0,0,0,0,0,0,0,0,0,0,25
-2025,September,2025-09-20,  Agroforestry,Keluar,KHLTB,Mataindo,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
-2025,September,2025-09-21,  Agroforestry,Keluar,KHLTB,Mataindo Utara,24,0,0,0,0,0,0,0,0,0,0,0,0,0,24
-2025,September,2025-09-23,  Agroforestry,Keluar,KHLTB,Mataindo Utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
-2025,September,2025-09-24,  Agroforestry,Keluar,KHLTB,Mataindo Utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
-2025,September,2025-09-29,  Agroforestry,Keluar,KHLTB,Mataindo Utara,40,0,0,0,0,0,0,0,0,0,0,0,0,0,40
-2025,October,2025-10-05,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
-2025,October,2025-10-06,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,15,0,0,0,0,0,0,0,0,16
-2025,October,2025-10-07,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
-2025,October,2025-10-11,  Agroforestry,Keluar,KHLTB,Mataindo,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
-2025,October,2025-10-15,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
-2025,October,2025-10-19,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
-2025,October,2025-10-20,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,16,0,0,0,0,0,0,0,0,16
-2025,October,2025-10-26,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2025,October,2025-10-26,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
-2025,November,2025-11-08,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,7,0,0,0,43,0,0,0,0,0,0,0,0,50
-2025,November,2025-11-08,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,2,0,0,0,50,0,0,0,0,0,0,0,0,52
-2025,November,2025-11-19,  Agroforestry,Keluar,KHLTB,Mataindo Utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
-2025,September,2025-09-20,  Agroforestry,Keluar,KHLTB,Mataindo Utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
-2025,September,2025-09-27,  Agroforestry,Keluar,KHLTB,Mataindo Utara,32,0,0,0,0,0,0,0,0,0,0,0,0,0,32
-2025,October,2025-10-02,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,40,0,0,0,0,0,0,0,0,40
-2025,October,2025-10-04,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
-2025,October,2025-10-08,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,25,0,0,0,15,0,0,0,0,0,0,0,0,40
-2025,October,2025-10-09,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,11,0,10,0,12,0,0,0,0,0,0,0,33
-2025,October,2025-10-09,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,18,0,0,0,0,0,0,0,0,18
-2025,October,2025-10-09,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2025,October,2025-10-14,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
-2025,October,2025-10-15,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,16,0,0,0,0,0,0,0,0,16
-2025,October,2025-10-18,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,5,0,0,40,0,0,0,0,0,0,0,0,45
-2025,October,2025-10-22,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,14,0,0,0,0,0,0,0,0,14
-2025,October,2025-10-31,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
-2025,December,2025-12-01,  Agroforestry,Keluar,KHLTB,Mataindo,61,0,0,0,0,0,0,0,0,0,0,0,0,0,61
-2025,December,2025-12-02,  Agroforestry,Keluar,KHLTB,Adow,40,10,10,0,0,30,0,10,0,0,0,0,0,0,100
-2025,December,2025-12-01,  Agroforestry,Keluar,KHLTB,Torosik,0,10,10,0,0,30,0,10,0,0,0,0,0,0,60
-2025,December,2025-12-01,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2025,December,2025-12-02,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
-2025,December,2025-12-02,  Agroforestry,Keluar,KHLTB,Mataindo,42,0,20,0,0,0,0,0,0,0,0,0,0,0,62
-2025,December,2025-12-02,  Agroforestry,Keluar,KHLTB,Torosik,0,10,10,0,0,30,0,10,0,0,0,0,0,0,60
-2025,December,2025-12-02,  Agroforestry,Keluar,KHLTB,Mataindo Utara,10,0,5,0,0,20,0,0,0,0,0,0,0,0,35
-2025,December,2025-12-03,  Agroforestry,Keluar,KHLTB,Mataindo,5,15,0,0,0,30,0,0,0,0,0,0,0,0,50
-2025,December,2025-12-04,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,15,0,0,0,0,5,0,0,0,0,0,0,20
-2025,December,2025-12-04,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
-2025,December,2025-12-04,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,2,0,0,18,0,0,0,0,0,0,0,0,20
-2025,December,2025-12-04,  Agroforestry,Keluar,KHLTB,Torosik,20,10,5,0,0,30,0,5,0,0,0,0,0,0,70
-2025,October,2025-10-10,  Agroforestry,Keluar,KHLTB,Mataindo Utara,5,0,5,0,0,25,0,0,0,0,0,0,0,0,35
-2025,October,2025-10-11,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2025,October,2025-10-12,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,5,0,45,0,0,0,0,0,0,50
-2025,October,2025-10-13,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,5,5,0,0,35,0,0,0,0,0,0,0,0,45
-2025,October,2025-10-14,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,35,0,0,0,0,0,0,0,0,35
-2025,October,2025-10-14,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
-2025,October,2025-10-17,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
-2025,October,2025-10-28,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,35,0,0,0,0,0,0,0,0,35
-2025,October,2025-10-29,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
-2025,November,2025-11-02,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,19,0,0,0,0,0,0,0,0,19
-2025,November,2025-11-11,  Agroforestry,Keluar,KHLTB,Mataindo Utara,20,0,0,0,0,15,0,0,0,0,0,0,0,0,35
-2025,November,2025-11-12,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,34,0,0,0,0,0,0,0,0,35
-2025,November,2025-11-13,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
-2025,November,2025-11-13,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
-2025,November,2025-11-14,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,36,0,0,0,0,0,0,0,0,36
-2025,November,2025-11-21,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
-2025,November,2025-11-21,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,59,0,0,0,0,0,0,0,0,59
-2025,November,2025-11-30,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,1,0,0,0,105,0,5,0,0,0,0,0,0,111
-2025,December,2025-12-03,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,40,4,0,0,0,0,0,0,0,44
-2025,December,2025-12-04,  Agroforestry,Keluar,KHLTB,Mataindo Utara,30,0,0,0,0,0,0,0,0,0,0,0,0,0,30
-2025,December,2025-12-05,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,12,0,0,0,0,0,0,12
-2025,December,2025-12-05,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,4,0,0,0,0,0,0,4
-2025,December,2025-12-06,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
-2025,December,2025-12-06,  Agroforestry,Keluar,KHLTB,Mataindo,50,0,1,0,0,25,0,0,0,0,0,0,0,0,76
-2025,December,2025-12-07,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,28,0,0,0,0,0,0,0,0,0,0,0,28
-2025,December,2025-12-07,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,13,0,0,0,0,0,0,0,0,0,0,0,0,13
-2025,December,2025-12-08,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,53,0,0,0,0,0,0,0,0,53
-2025,December,2025-12-08,  Agroforestry,Keluar,KHLTB,Mataindo Utara,30,0,0,0,0,0,0,0,0,0,0,0,0,0,30
-2025,December,2025-12-09,  Agroforestry,Keluar,KHLTB,Torosik,10,0,10,0,0,30,0,10,0,0,0,0,0,0,60
-2025,December,2025-12-09,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,1,0,0,0,27,0,6,0,0,0,0,0,0,34
-2025,December,2025-12-09,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,7,0,0,25,0,0,0,0,0,0,0,0,32
-2025,December,2025-12-09,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,22,0,0,0,0,0,0,0,0,22
-2025,December,2025-12-10,  Agroforestry,Keluar,KHLTB,Torosik,0,2,5,0,0,25,0,6,0,0,0,0,0,0,38
-2025,December,2025-12-10,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,5,5,0,0,0,0,0,0,0,0,0,0,0,10
-2025,December,2025-12-10,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,1,5,0,0,0,0,1,0,0,0,0,0,0,7
-2025,December,2025-12-12,  Agroforestry,Keluar,KHLTB,Mataindo,70,0,0,0,0,0,0,0,0,0,0,0,0,0,70
-2025,December,2025-12-13,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,1,0,0,0,15,0,0,0,0,0,0,0,0,16
-2025,December,2025-12-14,  Agroforestry,Keluar,KHLTB,Torosik,0,0,5,0,0,30,0,6,0,0,0,0,0,0,41
-2025,December,2025-12-15,  Agroforestry,Keluar,KHLTB,Torosik,0,5,10,0,0,30,0,10,0,0,0,0,0,0,55
-2025,December,2025-12-15,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
-2025,December,2025-12-15,  Agroforestry,Keluar,KHLTB,Mataindo Utara,1,0,0,0,0,5,0,0,0,0,0,0,0,0,6
-2025,December,2025-12-15,  Agroforestry,Keluar,KHLTB,Mataindo,0,5,7,0,0,0,0,0,0,0,0,0,0,0,12
-2025,December,2025-12-15,  Agroforestry,Keluar,KHLTB,Mataindo,10,5,0,0,0,0,0,0,0,0,0,0,0,0,15
-2025,December,2025-12-16,  Agroforestry,Keluar,KHLTB,Torosik,0,0,5,0,0,30,0,6,0,0,0,0,0,0,41
-2025,December,2025-12-16,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
-2025,December,2025-12-16,  Agroforestry,Keluar,KHLTB,Deaga,16,0,4,0,0,30,0,8,0,0,0,0,0,0,58
-2025,December,2025-12-16,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,6,0,0,36,0,0,0,0,0,0,0,0,42
-2025,December,2025-12-17,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,1,0,0,0,18,0,16,0,0,0,0,0,0,35
-2025,December,2025-12-17,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,5,0,0,33,0,0,0,0,0,0,0,0,38
-2025,December,2025-12-18,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2025,December,2025-12-18,  Agroforestry,Keluar,KHLTB,Mataindo,36,0,0,40,0,0,0,0,0,0,0,0,0,0,76
-2025,December,2025-12-19,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,1,0,0,21,0,21,0,0,0,0,0,0,43
-2025,December,2025-12-19,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,26,0,0,0,0,0,0,0,0,26
-2025,December,2025-12-20,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,2,0,0,13,0,0,0,0,0,0,0,0,15
-2025,December,2025-12-21,  Agroforestry,Keluar,KHLTB,Mataindo,0,8,10,8,0,0,0,11,0,0,0,0,0,0,37
-2025,December,2025-12-21,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
-2025,December,2025-12-21,  Agroforestry,Keluar,KHLTB,Torosik,11,0,10,0,0,29,0,0,0,0,0,0,0,0,50
-2025,December,2025-12-22,  Agroforestry,Keluar,KHLTB,Mataindo,6,0,2,0,0,49,0,0,0,0,0,0,0,0,57
-2025,December,2025-12-22,  Agroforestry,Keluar,KHLTB,Torosik,0,5,5,0,0,30,0,5,0,0,0,0,0,0,45
-2025,December,2025-12-23,  Agroforestry,Keluar,KHLTB,Torosik,0,6,5,0,0,30,0,7,0,0,0,0,0,0,48
-2025,December,2025-12-23,  Agroforestry,Keluar,KHLTB,Mataindo,43,0,0,0,0,0,0,0,0,0,0,0,0,0,43
-2025,December,2025-12-23,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
-2025,December,2025-12-24,  Agroforestry,Keluar,KHLTB,Torosik,20,5,5,0,0,30,0,0,0,0,0,0,0,0,60
-2025,December,2025-12-24,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,14,0,0,0,0,0,0,0,0,0,0,14
-2025,December,2025-12-24,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,10,0,0,0,0,0,0,0,0,0,0,0,10
-2025,December,2025-12-24,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,24,0,0,0,0,0,0,0,0,0,0,0,24
-2025,December,2025-12-25,  Agroforestry,Keluar,KHLTB,Torosik,0,0,8,0,0,30,0,5,0,0,0,0,0,0,43
-2025,December,2025-12-25,  Agroforestry,Keluar,KHLTB,Mataindo,30,0,1,0,0,0,0,0,0,0,0,0,0,0,31
-2025,December,2025-12-26,  Agroforestry,Keluar,KHLTB,Torosik,0,1,5,0,0,30,0,5,0,0,0,0,0,0,41
-2025,December,2025-12-26,  Agroforestry,Keluar,KHLTB,Mataindo,53,0,0,0,0,0,0,0,0,0,0,0,0,0,53
-2025,December,2025-12-27,  Agroforestry,Keluar,KHLTB,Torosik,30,0,13,0,0,30,12,0,0,0,0,0,0,0,85
-2025,December,2025-12-27,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,25,0,0,0,0,0,0,0,0,0,0,0,25
-2025,December,2025-12-27,  Agroforestry,Keluar,KHLTB,Mataindo Utara,2,0,1,0,0,16,0,0,0,0,0,0,0,0,19
-2025,December,2025-12-28,  Agroforestry,Keluar,KHLTB,Mataindo,34,0,0,0,0,0,0,0,0,0,0,0,0,0,34
-2025,December,2025-12-28,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
-2025,December,2025-12-28,  Agroforestry,Keluar,KHLTB,Torosik,0,5,0,0,0,30,0,10,0,0,0,0,0,0,45
-2025,December,2025-12-29,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,40,0,0,0,0,0,0,0,0,40
-2025,December,2025-12-30,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,0,0,6,0,0,0,0,0,0,6
-2025,December,2025-12-30,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,1,0,0,22,0,0,0,0,0,0,0,0,23
-2025,December,2025-12-30,  Agroforestry,Keluar,KHLTB,Mataindo,10,0,0,0,0,0,0,0,0,0,0,0,0,0,10
-2025,December,2025-12-31,  Agroforestry,Keluar,KHLTB,Torosik,0,0,10,0,0,30,0,5,0,0,0,0,0,0,45
-2025,December,2025-12-31,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,35,0,0,0,0,0,0,0,0,35
-2025,December,2025-12-31,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,40,0,5,0,0,0,0,0,0,45
-2025,December,2025-12-31,  Agroforestry,Keluar,KHLTB,Torosik,10,0,5,0,0,30,0,5,0,0,0,0,0,0,50
-2026,January,2026-01-01,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,4,0,0,70,0,0,0,0,0,0,0,0,74
-2026,January,2026-01-02,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
-2026,January,2026-01-02,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,20,0,0,0,0,0,0,0,0,0,0,0,20
-2026,January,2026-01-02,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,0,0,10,0,0,0,0,0,0,11
-2026,January,2026-01-03,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,2,2,0,0,0,0,1,0,0,0,0,0,0,5
-2026,January,2026-01-03,  Agroforestry,Keluar,KHLTB,Torosik,30,5,5,0,0,30,0,10,0,0,0,0,0,0,80
-2025,September,2025-09-29,  Agroforestry,Keluar,KHLTB,Mataindo,20,5,5,0,0,0,0,0,0,0,0,0,0,0,30
-2025,October,2025-10-15,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,20,0,0,0,0,0,0,20
-2025,October,2025-10-28,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
-2025,November,2025-11-18,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
-2025,November,2025-11-24,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,14,0,0,0,0,0,0,14
-2025,November,2025-11-29,  Agroforestry,Keluar,KHLTB,Mataindo Utara,33,0,0,0,0,0,0,0,0,0,0,0,0,0,33
-2025,December,2025-12-01,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
-2026,January,2026-01-03,  Agroforestry,Keluar,KHLTB,Torosik,30,5,5,0,0,30,0,10,0,0,0,0,0,0,80
-2026,January,2026-01-04,  Agroforestry,Keluar,KHLTB,Torosik,30,10,10,0,0,30,0,15,0,0,0,0,0,0,95
-2026,January,2026-01-04,  Agroforestry,Keluar,KHLTB,Torosik,30,15,10,0,0,30,0,15,0,0,0,0,0,0,100
-2026,January,2026-01-04,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,35,0,0,0,0,0,0,0,0,35
-2026,January,2026-01-05,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,30,0,5,0,0,0,0,0,0,35
-2026,January,2026-01-06,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
-2026,January,2026-01-06,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,4,0,10,0,0,0,0,0,0,14
-2025,November,2025-11-23,Sulawesi Tengah  ,Masuk,KHLTB,Adow,0,0,0,1682,0,0,0,0,0,0,0,0,0,0,1682
-2025,November,2025-11-23,  ,Mati,KHLTB,Adow,0,0,0,1039,0,0,0,0,0,0,0,0,0,0,1039
-2025,November,2025-11-23,  ,Mati,KHLTB,Mataindo Utara,0,0,0,1274,0,0,0,0,0,0,0,0,0,0,1274
-2026,January,2026-01-07,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,6,0,0,0,0,0,0,6
-2026,January,2026-01-07,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
-2026,January,2026-01-07,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,7,0,0,0,0,0,0,7
-2025,November,2025-11-29,  Restorasi,Keluar,KHLTB,Lainnya,3,0,3,3,0,0,0,0,0,0,0,0,0,0,9
-2026,January,2026-01-08,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,13,0,0,15,0,0,0,0,0,0,0,0,28
-2026,January,2026-01-08,  Agroforestry,Keluar,KHLTB,Mataindo,23,0,0,0,0,0,0,0,0,0,0,0,0,0,23
-2026,January,2026-01-08,  Agroforestry,Keluar,KHLTB,Adow,0,2,0,0,0,30,0,2,0,0,0,0,0,0,34
-2026,January,2026-01-09,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,21,0,0,0,0,0,0,0,0,0,0,0,21
-2026,January,2026-01-09,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,13,0,0,0,0,0,0,13
-2026,January,2026-01-09,  Agroforestry,Keluar,KHLTB,Torosik,0,10,10,0,0,30,0,10,0,0,0,0,0,0,60
-2026,January,2026-01-09,  Agroforestry,Keluar,KHLTB,Adow,0,10,10,0,0,30,0,20,0,0,0,0,0,0,70
-2026,January,2026-01-10,  Agroforestry,Keluar,KHLTB,Torosik,0,3,2,0,0,30,0,0,0,0,0,0,0,0,35
-2026,January,2026-01-10,  Agroforestry,Keluar,KHLTB,Adow,0,8,0,0,0,30,0,9,0,0,0,0,0,0,47
-2026,January,2026-01-10,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,53,0,0,0,0,0,0,0,0,53
-2026,January,2026-01-10,  Agroforestry,Keluar,KHLTB,Mataindo,51,0,0,0,0,0,0,0,0,0,0,0,0,0,51
-2025,October,2025-10-06,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,30,0,0,0,0,0,0,0,0,31
-2025,October,2025-10-07,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2025,October,2025-10-09,  Agroforestry,Keluar,KHLTB,Mataindo,0,5,0,0,0,20,0,0,0,0,0,0,0,0,25
-2025,October,2025-10-16,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,25,0,0,25,0,0,0,0,0,0,0,50
-2025,October,2025-10-19,  Agroforestry,Keluar,KHLTB,Mataindo,0,10,0,20,0,0,0,0,0,0,0,0,0,0,30
-2025,October,2025-10-23,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,15,0,0,15,0,0,0,0,0,0,0,30
-2025,November,2025-11-02,  Agroforestry,Keluar,KHLTB,Mataindo,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
-2025,November,2025-11-02,  Agroforestry,Keluar,KHLTB,Mataindo,22,0,0,0,0,0,0,0,0,0,0,0,0,0,22
-2025,November,2025-11-11,  Agroforestry,Keluar,KHLTB,Mataindo,3,0,0,0,0,15,0,0,0,0,0,0,0,0,18
-2025,November,2025-11-12,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,15,0,0,0,0,0,0,0,15
-2025,November,2025-11-12,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
-2025,November,2025-11-16,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,2,0,0,40,0,0,0,0,0,0,0,0,42
-2025,November,2025-11-20,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,4,0,0,8,0,0,0,0,0,0,0,0,12
-2025,November,2025-11-22,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
-2025,November,2025-11-22,  Agroforestry,Keluar,KHLTB,Torosik,10,0,10,0,0,30,0,0,0,0,0,0,0,0,50
-2025,December,2025-12-03,  Agroforestry,Keluar,KHLTB,Adow,25,10,10,0,0,45,0,10,0,0,0,0,0,0,100
-2025,December,2025-12-28,  Agroforestry,Keluar,KHLTB,Torosik,0,10,10,0,0,30,0,10,0,0,0,0,0,0,60
-2026,January,2026-01-09,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,27,0,0,0,0,0,0,27
-2026,January,2026-01-11,  Agroforestry,Keluar,KHLTB,Torosik,0,5,0,0,0,30,0,10,0,0,0,0,0,0,45
-2026,January,2026-01-11,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,10,0,0,35,0,0,0,0,0,0,0,0,45
-2026,January,2026-01-11,  Agroforestry,Keluar,KHLTB,Mataindo,50,0,0,0,0,0,0,0,0,0,0,0,0,0,50
-2026,January,2026-01-12,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,68,0,0,0,0,0,0,0,0,68
-2026,January,2026-01-12,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,24,0,0,0,0,0,0,0,0,0,0,0,24
-2025,October,2025-10-30,  Agroforestry,Keluar,KHLTB,Lainnya,5,10,2,0,0,0,0,5,0,0,0,0,0,0,22
-2025,October,2025-10-31,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
-2025,November,2025-11-06,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,0,0,7,0,0,0,0,0,0,8
-2025,November,2025-11-01,  Agroforestry,Keluar,KHLTB,Mataindo,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
-2025,November,2025-11-01,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2025,November,2025-11-06,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2025,November,2025-11-02,  Agroforestry,Keluar,KHLTB,Adow,4,0,4,0,0,8,0,0,0,0,0,0,0,0,16
-2025,November,2025-11-01,  Agroforestry,Keluar,KHLTB,Deaga,10,10,6,0,0,0,0,0,0,0,0,0,0,0,26
-2025,October,2025-10-31,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,4,0,16,0,4,0,0,0,0,0,0,24
-2025,November,2025-11-03,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,20,0,0,0,0,0,0,35
-2026,January,2026-01-13,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,40,0,0,0,0,0,0,0,0,40
-2026,January,2026-01-14,  Agroforestry,Keluar,KHLTB,Mataindo,50,0,0,0,0,0,0,0,0,0,0,0,0,0,50
-2026,January,2026-01-15,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,12,0,0,0,0,0,0,0,0,0,0,0,12
-2026,January,2026-01-15,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,10,0,0,0,0,0,0,0,0,0,0,0,10
-2026,January,2026-01-15,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,1,1,0,0,0,0,14,0,0,0,0,0,0,16
-2026,January,2026-01-16,  Agroforestry,Keluar,KHLTB,Mataindo,35,0,0,0,0,0,0,0,0,0,0,0,0,0,35
-2026,January,2026-01-16,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,10,0,0,0,0,0,0,0,0,11
-2026,January,2026-01-16,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
-2026,January,2026-01-17,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,12,0,0,0,0,0,0,0,0,12
-2026,January,2026-01-18,  Agroforestry,Keluar,KHLTB,Torosik,0,5,5,0,0,30,0,5,0,0,0,0,0,0,45
-2026,January,2026-01-19,  Agroforestry,Keluar,KHLTB,Adow,0,5,0,0,0,35,0,10,0,0,0,0,0,0,50
-2026,January,2026-01-19,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,5,0,0,10,0,0,0,0,0,0,0,0,15
-2026,January,2026-01-19,  Agroforestry,Keluar,KHLTB,Mataindo,50,0,0,0,0,0,0,0,0,0,0,0,0,0,50
-2026,January,2026-01-16,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,10,0,0,0,0,0,0,0,0,11
-2026,January,2026-01-16,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
-2026,January,2026-01-17,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,12,0,0,0,0,0,0,0,0,12
-2026,January,2026-01-20,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,5,5,0,0,30,0,5,0,0,0,0,0,0,45
-2026,January,2026-01-21,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,5,0,0,0,45,0,0,0,0,0,0,0,0,50
-2026,January,2026-01-22,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,5,0,0,10,0,0,0,0,0,0,0,0,15
-2026,January,2026-01-22,  Agroforestry,Keluar,KHLTB,Mataindo Utara,50,0,0,0,0,0,0,0,0,0,0,0,0,0,50
-2026,January,2026-01-22,  Agroforestry,Keluar,KHLTB,Torosik,0,0,6,0,0,10,0,0,0,0,0,0,0,0,16
-2026,January,2026-01-24,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,5,0,0,0,5,0,15,0,0,0,0,0,0,25
-2026,January,2026-01-25,  Agroforestry,Keluar,KHLTB,Adow,50,0,0,0,0,0,0,0,0,0,0,0,0,0,50
-2026,January,2026-01-26,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,10,0,0,0,5,0,0,0,0,0,0,0,0,15
-2026,January,2026-01-26,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,5,0,0,0,30,0,5,0,0,0,0,0,0,40
-2026,January,2026-01-27,  Agroforestry,Keluar,KHLTB,Mataindo Utara,5,0,0,0,0,10,0,5,0,0,0,0,0,0,20
-2026,January,2026-01-27,  Agroforestry,Keluar,KHLTB,Adow,0,10,10,0,0,33,0,20,0,0,0,0,0,0,73
-2026,January,2026-01-29,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,6,0,0,0,0,0,0,0,0,0,0,0,6
-2026,January,2026-01-29,  Agroforestry,Keluar,KHLTB,Adow,0,0,1,0,0,3,0,0,0,0,0,0,0,0,4
-2026,January,2026-01-29,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
-2026,January,2026-01-30,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,5,5,0,0,30,0,5,0,0,0,0,0,0,45
-2026,January,2026-01-31,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,20,0,0,0,0,0,0,0,0,21
-2026,January,2026-01-31,  Agroforestry,Keluar,KHLTB,Mataindo Utara,60,20,5,0,0,30,0,20,0,0,0,0,0,0,135
-2026,January,2026-01-31,  Agroforestry,Keluar,KHLTB,Adow,0,2,0,0,0,0,0,15,0,5,0,0,0,0,22
-2026,February,2026-02-01,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,3,0,0,12,0,0,0,0,0,0,0,0,15
-2026,February,2026-02-01,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,10,0,0,0,0,0,0,0,0,11
-2026,February,2026-02-01,  Agroforestry,Keluar,KHLTB,Adow,0,0,1,0,0,9,0,0,0,0,0,0,0,0,10
-2026,February,2026-02-01,  Agroforestry,Keluar,KHLTB,Mataindo,0,5,0,0,0,30,0,19,0,0,0,0,0,0,54
-2026,February,2026-02-02,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2026,February,2026-02-02,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,12,0,0,0,0,0,0,12
-2025,December,2025-12-31,Pembibitan Mandiri  ,Masuk,KHLTB,Mataindo Utara,0,0,5,0,0,30,0,5,0,0,0,0,0,0,40
-2025,August,2025-08-31,Pembibitan Mandiri  ,Masuk,KHLTB,Mataindo Utara,10,0,0,0,0,5,0,0,0,0,0,0,0,0,15
-2026,January,2026-01-31,Pembibitan Mandiri  ,Masuk,KHLTB,Mataindo Utara,0,0,0,0,0,7,0,0,0,0,0,0,0,0,7
-2026,January,2026-01-31,Cabutan Di Kebun Desa Mataindo Utara  ,Masuk,KHLTB,Mataindo Utara,10,0,0,0,0,0,0,0,0,0,0,0,0,0,10
-2026,February,2026-02-03,  Agroforestry,Keluar,KHLTB,Mataindo Utara,120,0,50,0,0,0,0,80,0,0,0,0,0,0,250
-2026,February,2026-02-04,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,180,0,0,0,0,0,0,0,0,180
-2026,February,2026-02-04,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,0,0,700,0,0,0,0,700
-2026,February,2026-02-04,  Agroforestry,Keluar,KHLTB,Adow,0,0,0,0,0,0,0,0,20,0,0,0,0,0,20
-2026,February,2026-02-05,  Agroforestry,Keluar,KHLTB,Adow,0,0,0,0,0,0,0,0,0,160,0,0,0,0,160
-2026,February,2026-02-05,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
-2026,February,2026-02-06,  Agroforestry,Keluar,KHLTB,Deaga,0,0,1,0,0,10,0,0,0,0,0,0,0,0,11
-2026,February,2026-02-12,  Agroforestry,Keluar,KHLTB,Deaga,0,0,0,0,0,16,0,0,0,0,0,0,0,0,16
-2026,February,2026-02-10,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,5,3,0,0,15,0,20,0,0,0,0,0,0,43
-2026,February,2026-02-10,  Agroforestry,Keluar,KHLTB,Torosik,0,5,0,0,0,30,0,5,0,0,0,0,0,0,40
-2026,February,2026-02-12,  Agroforestry,Keluar,KHLTB,Mataindo Utara,3,1,1,0,0,8,0,0,0,0,0,0,0,0,13
-2026,February,2026-02-12,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,5,5,0,0,30,0,20,0,0,0,0,0,0,60
-2026,February,2026-02-13,  Agroforestry,Keluar,KHLTB,Mataindo Utara,80,10,10,10,0,30,0,10,0,0,0,0,0,0,150
-2026,February,2026-02-13,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
-2026,February,2026-02-14,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,10,0,0,0,30,0,10,0,0,0,0,0,0,50
-2026,February,2026-02-14,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2026,February,2026-02-16,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,9,0,0,0,0,0,0,0,0,9
-2026,February,2026-02-16,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
-2026,February,2026-02-17,  Agroforestry,Keluar,KHLTB,Deaga,0,0,0,0,0,0,0,11,0,0,0,0,0,0,11
-2026,February,2026-02-17,  Agroforestry,Keluar,KHLTB,Adow,0,0,0,0,0,10,0,6,0,0,0,0,0,0,16
-2026,February,2026-02-17,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,1,1,0,0,0,0,2,0,0,0,0,0,0,4
-2026,February,2026-02-18,  Agroforestry,Keluar,KHLTB,Torosik,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2026,February,2026-02-18,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,16,0,0,0,0,0,0,0,0,16
-2026,February,2026-02-19,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,15,5,0,0,30,0,0,0,0,0,0,0,0,50
-2026,February,2026-02-20,  Agroforestry,Keluar,KHLTB,Mataindo Utara,60,10,10,0,0,0,0,20,0,0,0,0,0,0,100
-2026,February,2026-02-20,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
-2026,February,2026-02-21,  Agroforestry,Keluar,KHLTB,Mataindo Utara,40,5,5,0,0,0,0,0,0,0,0,0,0,0,50
-2026,February,2026-02-21,  Agroforestry,Keluar,KHLTB,Mataindo Utara,25,0,0,0,0,19,0,0,0,0,0,0,0,0,44
-2026,February,2026-02-22,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
-2026,February,2026-02-22,Cabutan Desa Mataindo Utara  ,Masuk,KHLTB,Mataindo Utara,2,1,1,0,0,20,0,0,0,0,0,0,0,0,24
-2026,February,2026-02-23,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,11,0,0,0,0,0,0,0,0,0,0,0,0,11
-2026,February,2026-02-24,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,9,0,0,0,0,0,0,0,0,9
-2026,February,2026-02-24,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
-2026,February,2026-02-25,  Agroforestry,Keluar,KHLTB,Mataindo Utara,230,0,0,0,0,0,0,0,0,0,0,0,0,0,230
-2026,February,2026-02-25,  Agroforestry,Keluar,KHLTB,Adow,0,0,0,0,0,0,120,0,0,0,0,0,0,0,120
-2026,February,2026-02-26,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,5,0,0,0,0,0,0,0,0,5
-2026,February,2026-02-27,  Agroforestry,Keluar,KHLTB,Mataindo Utara,70,0,0,0,0,0,0,0,0,0,0,0,0,0,70
-2026,February,2026-02-28,  Agroforestry,Keluar,KHLTB,Adow,0,0,1,0,0,15,0,0,0,0,0,0,0,0,16
-2026,February,2026-02-28,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,52,0,0,0,0,0,0,0,0,52
-2026,February,2026-02-06,  Agroforestry,Keluar,KHLTB,Adow,0,0,5,0,0,30,0,5,0,0,0,0,0,0,40
-2026,February,2026-02-18,  Agroforestry,Keluar,KHLTB,Deaga,0,0,1,0,0,15,0,0,0,0,0,0,0,0,16
-2026,January,2026-01-30,  Restorasi,Keluar,KHLTB,Lainnya,0,0,1,0,0,0,0,15,0,0,0,0,0,0,16
-2026,January,2026-01-31,  Restorasi,Keluar,KHLTB,Lainnya,0,5,5,0,0,30,0,6,0,0,0,0,0,0,46
-2026,February,2026-02-02,  Restorasi,Keluar,KHLTB,Lainnya,36,0,0,0,0,0,0,0,0,0,0,0,0,0,36
-2026,February,2026-02-09,  Restorasi,Keluar,KHLTB,Lainnya,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2026,February,2026-02-14,  Restorasi,Keluar,KHLTB,Lainnya,0,0,0,0,0,0,0,12,0,0,0,0,0,0,12
-2026,March,2026-03-05,  Restorasi,Keluar,KHLTB,Lainnya,0,0,26,0,0,0,0,36,0,0,0,0,0,0,62
-2026,February,2026-02-12,  Restorasi,Keluar,KHLTB,Lainnya,0,0,18,0,0,0,0,11,0,0,0,0,0,0,29
-2026,February,2026-02-01,  Restorasi,Keluar,KHLTB,Lainnya,0,0,98,0,0,0,0,27,0,0,0,0,0,0,125
-2026,February,2026-02-16,  Restorasi,Keluar,KHLTB,Lainnya,0,0,30,0,0,0,0,22,0,0,0,0,0,0,52
-2026,February,2026-02-18,  Restorasi,Keluar,KHLTB,Lainnya,0,0,24,0,0,0,0,24,0,0,0,0,0,0,48
-2026,February,2026-02-18,  Restorasi,Keluar,KHLTB,Lainnya,0,0,33,0,0,0,0,36,0,0,0,0,0,0,69
-2026,March,2026-03-04,Pembibitan Mandiri Nursery  ,Masuk,KHLTB,Lainnya,13,0,0,124,0,0,0,0,0,0,0,0,0,0,137
-2026,February,2026-02-28,  ,Keluar,KHLTB,Mataindo Utara,0,0,0,848,517,0,0,0,0,0,0,0,0,0,1365
-2026,February,2026-02-09,  ,Keluar,KHLTB,Adow,195,0,0,0,0,0,0,0,0,0,0,0,0,0,195
-2026,March,2026-03-03,  Restorasi,Keluar,KHLTB,Lainnya,0,0,20,0,0,0,0,0,0,0,0,0,0,0,20
-2026,March,2026-03-04,  Restorasi,Keluar,KHLTB,Lainnya,0,0,5,0,0,0,0,47,0,0,0,0,0,0,52
-2026,April,2026-04-06,Pembibitan Mandiri Nursery  ,Masuk,KHLTB,Lainnya,33,0,0,26,1066,0,0,0,0,0,0,0,0,0,1125
-2026,March,2026-03-01,  Agroforestry,Keluar,KHLTB,Adow,0,5,5,0,0,30,0,5,0,0,0,0,0,0,45
-2026,March,2026-03-01,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,0,0,8,0,0,0,0,0,0,9
-2026,March,2026-03-01,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,11,0,0,0,0,0,0,0,0,12
-2026,March,2026-03-02,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,0,0,13,0,0,0,0,0,0,14
-2026,March,2026-03-03,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,1,0,0,0,0,19,0,0,0,0,0,0,20
-2026,March,2026-03-04,  Agroforestry,Keluar,KHLTB,Mataindo Utara,5,0,0,0,0,10,0,0,0,0,0,0,0,0,15
-2026,March,2026-03-05,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,10,0,0,0,0,0,0,10
-2026,March,2026-03-06,  Agroforestry,Keluar,KHLTB,Mataindo Utara,10,0,0,0,0,12,0,0,0,0,0,0,0,0,22
-2026,March,2026-03-07,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
-2026,March,2026-03-08,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2026,March,2026-03-08,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,10,0,0,0,0,0,0,0,0,0,0,0,0,10
-2026,March,2026-03-09,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3
-2026,March,2026-03-09,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,6,0,0,0,0,0,0,0,0,6
-2026,March,2026-03-09,  Agroforestry,Keluar,KHLTB,Adow,0,0,5,0,0,30,0,5,0,0,0,0,0,0,40
-2026,March,2026-03-10,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
-2026,March,2026-03-10,  Agroforestry,Keluar,KHLTB,Mataindo Utara,10,0,0,0,0,0,0,0,0,0,0,0,0,0,10
-2026,March,2026-03-11,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,5,0,0,0,0,0,0,0,0,0,0,0,5
-2026,March,2026-03-12,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,12,0,0,0,0,0,0,0,0,12
-2026,March,2026-03-13,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,10,0,0,0,0,0,0,10
-2026,March,2026-03-14,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,7,0,0,0,0,0,0,0,0,7
-2026,March,2026-03-15,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,5,0,0,0,0,0,0,0,0,6
-2026,March,2026-03-15,  Agroforestry,Keluar,KHLTB,Mataindo Utara,8,0,0,0,0,0,0,0,0,0,0,0,0,0,8
-2026,March,2026-03-16,  Agroforestry,Keluar,KHLTB,Mataindo Utara,6,0,1,0,0,0,0,0,0,0,0,0,0,0,7
-2026,March,2026-03-16,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
-2026,March,2026-03-19,  Agroforestry,Keluar,KHLTB,Mataindo Utara,10,0,1,0,0,0,0,0,0,0,0,0,0,0,11
-2026,March,2026-03-22,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,5,0,0,0,0,0,0,0,0,0,0,0,5
-2026,March,2026-03-24,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,11,0,0,0,0,0,0,0,0,12
-2026,March,2026-03-25,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,12,0,0,0,0,0,0,0,0,12
-2026,March,2026-03-25,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2026,March,2026-03-26,  Agroforestry,Keluar,KHLTB,Mataindo Utara,8,0,1,0,0,4,0,0,0,0,0,0,0,0,13
-2026,March,2026-03-27,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,17,0,0,0,0,0,0,0,0,17
-2026,March,2026-03-27,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2026,March,2026-03-30,  Restorasi,Keluar,KHLTB,Lainnya,0,0,65,0,0,0,0,153,0,0,0,0,0,0,218
-2026,March,2026-03-30,  Restorasi,Keluar,KHLTB,Lainnya,0,0,53,0,0,0,0,21,0,0,0,0,0,0,74
-2026,March,2026-03-30,  Restorasi,Keluar,KHLTB,Lainnya,0,0,34,0,0,0,0,13,0,0,0,0,0,0,47
-2026,March,2026-03-31,  Restorasi,Keluar,KHLTB,Lainnya,0,0,41,0,0,0,0,27,0,0,0,0,0,0,68
-2026,April,2026-04-10,  Agroforestry,Keluar,KHLTB,Adow,0,0,5,0,0,30,0,5,0,0,0,0,0,0,40
-2026,April,2026-04-14,  Agroforestry,Keluar,KHLTB,Torosik,45,5,5,0,0,0,0,0,0,0,0,0,0,0,55
-2026,April,2026-04-14,  Agroforestry,Keluar,KHLTB,Torosik,50,5,5,0,0,30,0,0,0,0,0,0,0,0,90
-2026,April,2026-04-14,  Agroforestry,Keluar,KHLTB,Torosik,50,5,5,0,0,30,0,0,0,0,0,0,0,0,90
-2026,April,2026-04-15,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,3,0,0,15,0,0,0,0,0,0,0,0,18
-2026,April,2026-04-15,  Agroforestry,Keluar,KHLTB,Torosik,60,5,5,0,0,10,0,0,0,0,0,0,0,0,80
-2026,April,2026-04-16,  Agroforestry,Keluar,KHLTB,Mataindo,12,0,0,0,0,0,0,0,0,0,0,0,0,0,12
-2026,April,2026-04-16,  Agroforestry,Keluar,KHLTB,Torosik,40,5,5,0,0,0,0,0,0,0,0,0,0,0,50
-2026,April,2026-04-20,  Agroforestry,Keluar,KHLTB,Mataindo,33,38,30,30,44,0,0,30,0,0,0,0,0,0,205
-2026,April,2026-04-21,  Agroforestry,Keluar,KHLTB,Mataindo,61,64,70,0,0,0,0,5,0,0,0,0,0,0,200
-2026,April,2026-04-22,  Agroforestry,Keluar,KHLTB,Mataindo,66,79,15,0,20,0,0,20,0,0,0,0,0,0,200
-2026,April,2026-04-22,  Agroforestry,Keluar,KHLTB,Mataindo,0,11,2,0,0,0,0,8,0,0,0,0,0,0,21
-2026,April,2026-04-22,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,42,0,0,0,0,0,0,0,0,42
-2026,April,2026-04-23,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,10,0,0,0,0,0,0,10
-2026,April,2026-04-23,  Agroforestry,Keluar,KHLTB,Mataindo,65,116,0,0,0,0,0,19,0,0,0,0,0,0,200
-2026,April,2026-04-22,  Agroforestry,Keluar,KHLTB,Mataindo,0,175,25,75,0,0,0,0,0,0,0,0,0,0,275
-2026,April,2026-04-22,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,25,0,0,0,0,0,0,0,0,0,0,25
-2026,April,2026-04-23,  Agroforestry,Keluar,KHLTB,Mataindo,0,50,75,75,0,0,0,0,0,0,0,0,0,0,200
-2026,April,2026-04-24,  Agroforestry,Keluar,KHLTB,Mataindo,0,25,50,75,0,0,0,0,0,0,0,0,0,0,150
-2026,April,2026-04-24,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,14,0,0,0,0,0,0,0,0,0,0,0,14
-2026,April,2026-04-25,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,53,10,0,0,0,0,0,0,0,0,0,0,0,63
-2026,April,2026-04-25,  Agroforestry,Keluar,KHLTB,Mataindo,61,75,0,0,33,0,0,31,0,0,0,0,0,0,200
-2026,April,2026-04-25,  Agroforestry,Keluar,KHLTB,Mataindo,25,0,0,25,125,0,0,25,0,0,0,0,0,0,200
-2026,April,2026-04-26,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
-2026,April,2026-04-26,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,4,0,0,0,0,0,0,0,0,0,0,0,4
-2026,April,2026-04-26,  Agroforestry,Keluar,KHLTB,Mataindo,136,215,11,20,18,0,0,0,0,0,0,0,0,0,400
-2026,April,2026-04-26,  Agroforestry,Keluar,KHLTB,Mataindo,125,0,0,0,25,0,0,0,0,0,0,0,0,0,150
-2026,April,2026-04-27,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
-2026,April,2026-04-27,  Agroforestry,Keluar,KHLTB,Mataindo Utara,9,0,1,0,0,10,0,0,0,0,0,0,0,0,20
-2026,April,2026-04-28,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,8,0,0,0,0,0,0,0,0,8
-2026,April,2026-04-29,  Agroforestry,Keluar,KHLTB,Mataindo,129,25,20,0,0,0,0,26,0,0,0,0,0,0,200
-2026,April,2026-04-29,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
-2026,April,2026-04-29,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,9,0,0,6,0,0,0,0,0,0,0,0,15
-2026,April,2026-04-30,  Agroforestry,Keluar,KHLTB,Mataindo Utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
-2026,April,2026-04-30,  Agroforestry,Keluar,KHLTB,Mataindo,95,65,5,0,0,0,0,35,0,0,0,0,0,0,200
-2026,April,2026-04-19,Kotamobagu  ,Masuk,KHLTB,Adow,0,0,0,0,0,0,0,0,0,0,500,0,0,0,500
-2026,April,2026-04-27,Gorontalo  ,Masuk,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,0,0,0,0,200,0,0,200
-2026,April,2026-04-25,Smart Patrol  ,Masuk,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,0,0,0,0,0,15,0,15
-2026,April,2026-04-23,  Restorasi,Keluar,KHLTB,Lainnya,31,0,0,0,0,0,0,0,0,0,0,0,0,0,31
-2026,April,2026-04-23,  Restorasi,Keluar,KHLTB,Lainnya,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2
-2026,April,2026-04-26,  Restorasi,Keluar,KHLTB,Lainnya,68,0,0,10,0,0,0,0,0,0,0,0,0,0,78
-2026,April,2026-04-27,  Restorasi,Keluar,KHLTB,Lainnya,20,0,0,10,0,0,0,19,0,0,0,0,0,0,49
-2026,April,2026-04-27,  Restorasi,Keluar,KHLTB,Lainnya,100,0,0,0,0,0,0,0,0,0,0,0,0,0,100
-2026,April,2026-04-27,  Restorasi,Keluar,KHLTB,Lainnya,0,0,0,43,0,0,0,0,0,0,0,0,0,0,43
-2026,April,2026-04-27,  Restorasi,Keluar,KHLTB,Lainnya,0,0,20,0,0,0,0,0,0,0,0,0,0,0,20
-2026,May,2026-05-04,  Restorasi,Keluar,KHLTB,Lainnya,0,0,10,5,0,0,0,0,0,0,0,0,0,0,15
-2026,May,2026-05-04,  Restorasi,Keluar,KHLTB,Lainnya,103,0,0,0,0,0,0,0,0,0,0,0,0,0,103
-2026,May,2026-05-05,  Restorasi,Keluar,KHLTB,Lainnya,0,0,15,0,0,0,0,0,0,0,0,0,0,0,15
-2026,May,2026-05-05,  Restorasi,Keluar,KHLTB,Lainnya,30,0,0,0,0,0,0,0,0,0,0,0,0,0,30
-2026,May,2026-05-05,  Restorasi,Keluar,KHLTB,Lainnya,65,0,0,0,0,0,0,0,0,0,0,0,0,0,65
-2026,May,2026-05-05,  Restorasi,Keluar,KHLTB,Lainnya,27,0,0,0,0,0,0,0,0,0,0,0,0,0,27
-2026,May,2026-05-05,  Restorasi,Keluar,KHLTB,Lainnya,182,0,3,5,0,0,0,10,0,0,0,0,0,0,200
-2026,May,2026-05-06,  Restorasi,Keluar,KHLTB,Lainnya,36,0,4,0,0,0,0,22,0,0,0,0,0,0,62
-2026,May,2026-05-06,  Restorasi,Keluar,KHLTB,Lainnya,25,0,0,0,0,0,0,0,0,0,0,0,0,0,25
-2026,May,2026-05-08,  Restorasi,Keluar,KHLTB,Lainnya,12,0,10,0,0,0,0,0,0,0,0,0,0,0,22
-2026,May,2026-05-08,  Restorasi,Keluar,KHLTB,Lainnya,14,0,10,0,0,0,0,0,0,0,0,0,0,0,24
-2026,May,2026-05-17,  Restorasi,Keluar,KHLTB,Lainnya,0,0,6,0,0,0,0,0,0,0,0,0,0,0,6
-2026,May,2026-05-17,  Restorasi,Keluar,KHLTB,Lainnya,0,0,14,7,0,0,0,0,0,0,0,0,0,0,21
-2026,May,2026-05-17,  Restorasi,Keluar,KHLTB,Lainnya,0,0,7,0,0,0,0,7,0,0,0,0,0,0,14
-2026,May,2026-05-17,  Restorasi,Keluar,KHLTB,Lainnya,0,0,9,0,0,0,0,5,0,0,0,0,0,0,14
-2026,May,2026-05-11,  Agroforestry,Keluar,KHLTB,Adow,0,0,0,0,0,0,0,150,0,0,0,0,0,0,150
-2026,May,2026-05-29,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,5,0,0,0,0,0,0,0,0,0,0,0,0,5
-2026,May,2026-05-29,  Agroforestry,Keluar,KHLTB,Mataindo Utara,13,0,0,0,0,0,0,0,0,0,0,0,0,0,13
-2026,May,2026-05-30,  Agroforestry,Keluar,KHLTB,Mataindo,22,0,0,0,0,0,0,0,0,0,0,0,0,0,22
-2026,May,2026-05-30,  Agroforestry,Keluar,KHLTB,Adow,0,5,5,0,0,40,0,5,0,0,0,0,0,0,55
-2026,May,2026-05-31,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,25,0,0,0,0,0,0,0,0,26
-2025,December,2025-12-15,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,66,0,0,0,0,0,0,0,0,66
-2025,December,2025-12-31,  Agroforestry,Keluar,KHLTB,Adow,40,10,10,0,0,30,0,10,0,0,0,0,0,0,100
-2026,May,2026-05-03,  Agroforestry,Keluar,KHLTB,Mataindo,80,0,0,0,0,0,0,20,0,0,0,0,0,0,100
-2026,May,2026-05-04,  Agroforestry,Keluar,KHLTB,Mataindo,0,325,10,0,0,0,0,30,0,0,0,0,0,0,365
-2026,May,2026-05-07,  Agroforestry,Keluar,KHLTB,Adow,0,0,5,0,0,30,0,5,0,0,0,0,0,0,40
-2026,June,2026-06-01,  Agroforestry,Keluar,KHLTB,Adow,0,5,5,0,0,30,0,5,0,0,0,0,0,0,45
-2026,June,2026-06-01,  Agroforestry,Keluar,KHLTB,Mataindo,14,0,2,0,0,0,0,0,0,0,0,0,0,0,16
-2026,June,2026-06-02,  Agroforestry,Keluar,KHLTB,Mataindo Utara,15,0,0,0,0,0,0,0,0,0,0,0,0,0,15
-2026,June,2026-06-03,  Agroforestry,Keluar,KHLTB,Mataindo,26,0,0,0,0,0,0,0,0,0,0,0,0,0,26
-2026,June,2026-06-04,  Agroforestry,Keluar,KHLTB,Mataindo Utara,15,0,0,0,0,0,0,0,0,0,0,0,0,0,15
-2026,June,2026-06-04,  Agroforestry,Keluar,KHLTB,Torosik,40,5,5,0,0,0,0,0,0,0,0,0,0,0,50
-2026,June,2026-06-04,  Agroforestry,Keluar,KHLTB,Torosik,40,5,0,0,0,5,0,0,0,0,0,0,0,0,50
-2026,June,2026-06-05,  Agroforestry,Keluar,KHLTB,Mataindo,19,0,0,0,0,0,0,0,0,0,0,0,0,0,19
-2026,June,2026-06-06,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,14,0,0,0,0,0,0,0,0,14
-2026,June,2026-06-07,  Agroforestry,Keluar,KHLTB,Mataindo Utara,6,0,0,0,0,0,0,0,0,0,0,0,0,0,6
-2026,June,2026-06-07,  Agroforestry,Keluar,KHLTB,Mataindo Utara,5,0,0,0,0,0,0,0,0,0,0,0,0,0,5
-2026,June,2026-06-07,  Agroforestry,Keluar,KHLTB,Adow,0,2,2,0,0,50,0,50,0,0,0,0,0,0,104
-2026,June,2026-06-08,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
-2026,June,2026-06-09,  Agroforestry,Keluar,KHLTB,Adow,80,5,5,0,0,0,0,0,0,0,0,0,0,0,90
-2026,June,2026-06-09,  Agroforestry,Keluar,KHLTB,Mataindo,72,128,0,0,0,0,0,0,0,0,0,0,0,0,200
-2026,June,2026-06-09,  Agroforestry,Keluar,KHLTB,Mataindo Utara,19,0,0,0,0,0,0,0,0,0,0,0,0,0,19
-2026,June,2026-06-10,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
-2026,June,2026-06-11,  Agroforestry,Keluar,KHLTB,Mataindo Utara,4,0,1,0,0,0,0,0,0,0,0,0,0,0,5
-2026,June,2026-06-11,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,10,0,0,0,0,0,0,0,0,11
-2026,June,2026-06-11,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,0,0,0,0,15,0,0,0,0,15
-2026,June,2026-06-12,  Agroforestry,Keluar,KHLTB,Mataindo Utara,70,0,0,0,0,0,0,0,0,0,0,0,0,0,70
-2026,June,2026-06-13,  Agroforestry,Keluar,KHLTB,Torosik,0,0,0,0,0,0,0,0,0,0,55,0,0,0,55
-2026,June,2026-06-13,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,9,3,0,0,0,0,0,0,0,0,0,0,0,12
-2026,June,2026-06-14,  Agroforestry,Keluar,KHLTB,Torosik,60,10,10,0,0,0,0,10,0,0,0,0,0,0,90
-2026,June,2026-06-15,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
-2026,June,2026-06-15,  Agroforestry,Keluar,KHLTB,Mataindo Utara,14,0,0,0,0,0,0,0,0,0,0,0,0,0,14
-2026,June,2026-06-15,  Agroforestry,Keluar,KHLTB,Adow,0,50,5,0,0,0,0,70,0,0,0,0,0,0,125
-2026,June,2026-06-16,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,15,0,0,0,0,0,0,0,0,0,15
-2026,June,2026-06-16,  Agroforestry,Keluar,KHLTB,Mataindo Utara,9,0,1,0,0,5,0,0,0,0,0,0,0,0,15
-2026,June,2026-06-17,  Agroforestry,Keluar,KHLTB,Mataindo Utara,20,1,7,3,0,0,0,0,0,0,0,0,0,0,31
-2026,June,2026-06-18,  Agroforestry,Keluar,KHLTB,Mataindo,0,25,0,0,0,0,0,0,0,0,125,0,0,0,150
-2026,June,2026-06-18,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
-2026,June,2026-06-19,  Agroforestry,Keluar,KHLTB,Mataindo Utara,13,0,0,0,0,0,0,0,0,0,0,0,0,0,13
-2026,June,2026-06-20,  Agroforestry,Keluar,KHLTB,Adow,0,0,0,0,0,0,0,0,0,200,0,10,0,0,210
-2026,June,2026-06-20,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,27,0,0,0,0,0,0,0,0,27
-2026,June,2026-06-21,  Agroforestry,Keluar,KHLTB,Mataindo Utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
-2026,June,2026-06-22,  Agroforestry,Keluar,KHLTB,Mataindo Utara,18,0,2,0,0,0,0,0,0,0,0,0,0,0,20
-2026,June,2026-06-23,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,2,0,0,0,0,12,0,0,0,0,0,0,14
-2026,June,2026-06-24,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,16,0,0,0,0,0,0,0,0,16
-2026,June,2026-06-25,  Agroforestry,Keluar,KHLTB,Mataindo Utara,6,0,1,0,0,6,0,0,0,0,0,0,0,0,13
-2026,June,2026-06-26,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,7,0,0,0,0,0,0,0,0,0,0,0,7
-2026,June,2026-06-27,  Agroforestry,Keluar,KHLTB,Mataindo Utara,16,0,0,0,0,0,0,0,0,0,0,0,0,0,16
-2026,June,2026-06-27,  Agroforestry,Keluar,KHLTB,Mataindo,41,0,0,0,0,0,0,0,0,0,0,0,0,0,41
-2026,June,2026-06-28,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,10,0,0,0,0,0,0,0,0,0,0,0,10
-2026,June,2026-06-29,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,10,0,0,10,0,0,0,0,0,0,0,0,20
-2026,June,2026-06-30,  Agroforestry,Keluar,KHLTB,Mataindo,15,0,0,0,0,0,0,0,0,0,0,0,0,0,15
-2026,June,2026-06-30,  Agroforestry,Keluar,KHLTB,Mataindo Utara,30,0,0,0,0,0,0,0,0,0,0,0,0,0,30
-2026,June,2026-06-06,  Restorasi,Keluar,KHLTB,Lainnya,0,0,42,0,0,0,0,112,0,0,0,0,0,0,154
-2026,June,2026-06-08,  Restorasi,Keluar,KHLTB,Lainnya,0,0,0,0,0,0,0,24,0,0,0,0,0,0,24
-2026,June,2026-06-08,  Restorasi,Keluar,KHLTB,Lainnya,0,0,32,0,0,0,0,0,0,0,0,0,0,0,32
-2026,June,2026-06-08,  Restorasi,Keluar,KHLTB,Lainnya,80,0,25,0,0,0,0,43,0,0,0,0,0,0,148
-2026,June,2026-06-09,  Restorasi,Keluar,KHLTB,Lainnya,248,0,78,0,0,0,0,0,0,0,0,0,0,0,326
-2026,June,2026-06-10,  Restorasi,Keluar,KHLTB,Lainnya,0,0,11,0,0,0,0,0,0,0,0,0,0,0,11
-2026,June,2026-06-10,  Restorasi,Keluar,KHLTB,Lainnya,71,0,40,5,0,0,0,0,0,0,0,0,0,0,116
-2026,June,2026-06-10,  Restorasi,Keluar,KHLTB,Lainnya,62,0,0,0,0,0,0,0,0,0,0,0,0,0,62
-2026,June,2026-06-10,  Restorasi,Keluar,KHLTB,Lainnya,25,0,25,0,0,0,0,0,0,0,0,0,0,0,50
-2026,June,2026-06-11,  Restorasi,Keluar,KHLTB,Lainnya,30,0,0,0,0,0,0,0,0,0,0,0,0,0,30
-2026,June,2026-06-11,  Restorasi,Keluar,KHLTB,Lainnya,53,0,26,10,0,0,0,0,0,0,0,0,0,0,89
-2026,June,2026-06-11,  Restorasi,Keluar,KHLTB,Lainnya,21,0,0,0,0,0,0,0,0,0,0,0,0,0,21
-2026,June,2026-06-11,  Restorasi,Keluar,KHLTB,Lainnya,0,0,0,10,0,0,0,0,0,0,0,0,0,0,10
-2026,June,2026-06-11,  Restorasi,Keluar,KHLTB,Lainnya,10,0,6,0,0,0,0,0,0,0,0,0,0,0,16
-2026,June,2026-06-11,  Restorasi,Keluar,KHLTB,Lainnya,112,0,16,0,0,0,0,0,0,0,0,0,0,0,128
-2026,June,2026-06-12,  Restorasi,Keluar,KHLTB,Lainnya,43,0,0,0,0,0,0,0,0,0,0,0,0,0,43
-2026,June,2026-06-12,  Restorasi,Keluar,KHLTB,Lainnya,5,0,31,0,0,0,0,0,0,0,0,0,0,0,36
-2026,June,2026-06-12,  Restorasi,Keluar,KHLTB,Lainnya,21,0,0,0,0,0,0,0,0,0,0,0,0,0,21
-2026,June,2026-06-12,  Restorasi,Keluar,KHLTB,Lainnya,62,0,15,0,0,0,0,36,0,0,0,0,0,0,113
-2026,June,2026-06-12,  Restorasi,Keluar,KHLTB,Lainnya,0,0,0,0,0,0,0,11,0,0,0,0,0,0,11
-2026,June,2026-06-12,  Restorasi,Keluar,KHLTB,Lainnya,0,0,0,0,0,0,0,10,0,0,0,0,0,0,10
-2026,June,2026-06-12,  Restorasi,Keluar,KHLTB,Lainnya,10,0,0,0,0,0,0,0,0,0,0,0,0,0,10
-2026,June,2026-06-12,  Restorasi,Keluar,KHLTB,Lainnya,0,0,9,0,0,0,0,0,0,0,0,0,0,0,9
-2026,June,2026-06-26,  Agroforestry,Keluar,KHLTB,Mataindo,445,435,20,0,0,0,0,105,0,0,0,0,0,0,1005
-2026,July,2026-07-01,  Agroforestry,Keluar,KHLTB,Mataindo Utara,43,0,0,0,0,0,0,0,0,0,0,0,0,0,43
+2025,July,04/07/2025,Bpdas Tondano  ,Masuk,KHLTB,Mataindo Utara,999,1559,997,1012,1118,0,0,0,0,0,0,0,0,0,5685
+2025,July,31/07/2025,Masyarakat Mataindo Alwiyah  ,Masuk,KHLTB,Mataindo Utara,425,0,0,0,0,0,0,0,0,0,0,0,0,0,425
+2025,August,14/08/2025,Masyarakat Mataindo Alwiyah  ,Masuk,KHLTB,Mataindo Utara,100,0,0,0,0,0,0,0,0,0,0,0,0,0,100
+2025,August,31/08/2025,Masyarakat Mataindo Alwiyah  ,Masuk,KHLTB,Mataindo Utara,200,0,0,0,0,0,0,0,0,0,0,0,0,0,200
+2025,August,05/08/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,5,3,3,0,4,0,0,0,0,0,0,0,0,0,15
+2025,September,29/09/2025,Masyarakat Mataindo Utara Hidaya Paputungan  ,Masuk,KHLTB,Mataindo Utara,0,0,0,0,0,350,0,0,0,0,0,0,0,0,350
+2025,October,03/10/2025,Gorontalo  ,Masuk,KHLTB,Mataindo Utara,0,0,520,0,0,0,0,5745,0,0,0,0,0,0,6265
+2025,October,04/10/2025,Tapadaka Dumoga  ,Masuk,KHLTB,Mataindo Utara,0,0,0,0,0,7345,0,0,0,0,0,0,0,0,7345
+2025,October,08/10/2025,Sulawesi Tengah  ,Masuk,KHLTB,Mataindo Utara,5690,2520,2570,0,0,0,0,0,0,0,0,0,0,0,10780
+2025,October,09/10/2025,Sulawesi Tengah  ,Masuk,KEMP,Pusian Barat,1983,0,1656,0,0,0,0,0,0,0,0,0,0,0,3639
+2025,October,09/10/2025,Gorontalo  ,Masuk,KEMP,Pusian Barat,0,0,0,0,0,0,0,1948,0,0,0,0,0,0,1948
+2025,October,09/10/2025,Sulawesi Tengah  ,Masuk,KHLTB,Adow,4531,2504,2546,0,0,0,0,0,0,0,0,0,0,0,9581
+2025,October,08/10/2025,  ,Mati,KHLTB,Adow,81,45,33,0,0,0,0,0,0,0,0,0,0,0,159
+2025,October,09/10/2025,  ,Mati,KEMP,Pusian Barat,5,0,49,0,0,0,0,72,0,0,0,0,0,0,126
+2025,October,08/10/2025,  ,Mati,KHLTB,Mataindo Utara,0,70,17,0,0,0,0,0,0,0,0,0,0,0,87
+2025,November,07/11/2025,Sulawesi Tengah  ,Masuk,KEMP,Pusian Barat,0,0,0,2125,0,0,0,0,0,0,0,0,0,0,2125
+2025,December,16/12/2025,  ,Mati,KEMP,Pusian Barat,0,0,0,892,0,0,0,0,0,0,0,0,0,0,892
+2025,November,23/11/2025,Sulawesi Tengah  ,Masuk,KHLTB,Mataindo Utara,0,0,0,2332,0,0,0,0,0,0,0,0,0,0,2332
+2025,December,15/12/2025,  ,Mati,KHLTB,Mataindo Utara,0,0,0,1058,0,0,0,0,0,0,0,0,0,0,1058
+2025,September,10/09/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,20,0,0,8,0,0,0,0,0,0,0,0,0,0,28
+2025,September,14/09/2025,  Agroforestry,Keluar,KHLTB,Mataindo,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2025,September,15/09/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2025,September,17/09/2025,  Agroforestry,Keluar,KHLTB,Mataindo,20,0,0,0,5,0,0,0,0,0,0,0,0,0,25
+2025,September,17/09/2025,  Agroforestry,Keluar,KHLTB,Mataindo,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2025,September,18/09/2025,  Agroforestry,Keluar,KHLTB,Mataindo,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2025,September,18/09/2025,  Agroforestry,Keluar,KHLTB,Mataindo,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2025,September,18/09/2025,  Agroforestry,Keluar,KHLTB,Mataindo,15,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2025,September,20/09/2025,  Agroforestry,Keluar,KHLTB,Mataindo,20,0,10,0,0,0,0,0,0,0,0,0,0,0,30
+2025,September,22/09/2025,  Agroforestry,Keluar,KHLTB,Mataindo,40,20,0,0,0,0,0,0,0,0,0,0,0,0,60
+2025,September,26/09/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2025,September,28/09/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,10,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2025,September,28/09/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,10,0,0,0,0,0,0,0,0,0,0,0,0,10
+2025,September,28/09/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
+2025,October,01/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,10,0,0,0,0,0,0,0,0,0,0,0,0,10
+2025,October,03/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,5,25,0,0,0,0,0,0,0,0,30
+2025,October,04/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,10,0,0,0,0,0,0,0,0,0,0,0,0,10
+2025,October,09/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,10,0,0,10,0,0,0,0,0,0,0,0,0,0,20
+2025,October,11/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,20,0,0,0,0,0,0,0,0,21
+2025,October,12/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,0,0,20,0,0,0,0,0,0,20
+2025,October,12/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
+2025,October,12/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo,30,5,0,0,0,0,0,0,0,0,0,0,0,0,35
+2025,October,13/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
+2025,October,13/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo,30,0,0,0,0,0,0,0,0,0,0,0,0,0,30
+2025,October,13/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
+2025,October,16/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,4,0,0,0,34,0,0,0,0,0,0,0,0,38
+2025,October,19/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,3,0,0,0,35,0,0,0,0,0,0,0,0,38
+2025,October,20/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,10,0,0,0,0,50,0,0,0,0,0,0,0,0,60
+2025,October,21/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,4,0,0,0,10,0,0,0,0,0,0,0,0,14
+2025,October,22/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
+2025,October,24/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo,45,0,0,0,0,0,0,0,0,0,0,0,0,0,45
+2025,October,25/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2025,October,27/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
+2025,October,27/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2025,October,27/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,35,0,0,0,0,0,0,0,0,35
+2025,October,29/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo,30,0,0,0,0,0,0,0,0,0,0,0,0,0,30
+2025,October,30/10/2025,  Agroforestry,Keluar,KHLTB,Torosik,0,0,4,0,0,16,0,4,0,0,0,0,0,0,24
+2025,November,01/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2025,November,03/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
+2025,November,04/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,46,0,0,0,0,0,0,0,0,0,0,0,0,0,46
+2025,November,05/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
+2025,November,05/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,15,0,0,0,0,0,0,15
+2025,November,05/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2025,November,06/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
+2025,November,06/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
+2025,November,07/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,3,0,0,29,0,0,0,0,0,0,0,0,32
+2025,November,07/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
+2025,November,09/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
+2025,November,09/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,28,0,0,0,0,0,0,0,0,28
+2025,November,10/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,10,0,14,0,0,0,0,0,0,24
+2025,November,10/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,31,0,0,0,0,0,0,0,0,31
+2025,November,10/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,31,0,0,0,0,0,0,0,0,31
+2025,November,11/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
+2025,November,13/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,41,5,1,0,0,30,0,0,0,0,0,0,0,0,77
+2025,November,14/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,45,0,0,0,0,0,0,0,0,45
+2025,November,14/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,35,0,0,0,0,0,0,0,0,35
+2025,November,15/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,31,0,0,0,0,0,0,0,0,0,0,0,0,0,31
+2025,November,16/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,8,10,0,0,0,0,9,0,0,0,0,0,0,27
+2025,November,16/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,49,0,0,0,0,0,0,0,0,49
+2025,November,17/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
+2025,November,17/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,20,0,0,0,0,0,0,0,0,0,0,0,20
+2025,November,18/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
+2025,November,19/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,50,0,0,0,0,0,0,0,0,0,0,0,0,0,50
+2025,November,19/11/2025,  Agroforestry,Keluar,KHLTB,Adow,40,10,10,0,0,30,0,10,0,0,0,0,0,0,100
+2025,November,20/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2025,November,20/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
+2025,November,20/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
+2025,November,20/11/2025,  Agroforestry,Keluar,KHLTB,Torosik,50,0,20,0,0,30,0,0,0,0,0,0,0,0,100
+2025,November,21/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
+2025,November,21/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
+2025,November,22/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2025,November,22/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,15,0,0,0,0,0,0,0,0,0,0,0,15
+2025,November,23/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,53,0,0,0,0,0,0,0,0,53
+2025,November,23/11/2025,  Agroforestry,Keluar,KHLTB,Torosik,0,5,5,0,0,30,0,0,0,0,0,0,0,0,40
+2025,November,23/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,15,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2025,November,24/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,30,0,3,0,0,17,0,0,0,0,0,0,0,0,50
+2025,November,24/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,8,0,0,0,0,0,0,0,0,0,0,0,8
+2025,November,25/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,26,0,0,0,0,0,0,0,0,26
+2025,November,25/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,11,0,0,0,0,0,0,0,0,0,0,0,11
+2025,November,26/11/2025,  Agroforestry,Keluar,KHLTB,Torosik,5,0,5,0,0,30,0,10,0,0,0,0,0,0,50
+2025,November,27/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,52,0,0,0,0,0,0,0,0,52
+2025,November,28/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,29,0,0,0,0,47,0,0,0,0,0,0,0,0,76
+2025,November,28/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,53,0,0,0,0,0,0,0,0,53
+2025,November,29/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,1,0,0,10,5,0,0,0,0,0,0,0,0,16
+2025,November,29/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,10,0,0,0,24,0,0,0,0,0,0,0,0,34
+2025,November,29/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
+2025,November,30/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,19,0,2,0,0,20,0,0,0,0,0,0,0,0,41
+2025,September,07/09/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,20,10,0,0,0,0,0,0,0,0,0,0,0,0,30
+2025,September,12/09/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,15,0,0,10,0,0,0,0,0,0,0,0,0,0,25
+2025,September,20/09/2025,  Agroforestry,Keluar,KHLTB,Mataindo,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2025,September,21/09/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,24,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+2025,September,23/09/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2025,September,24/09/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2025,September,29/09/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,40,0,0,0,0,0,0,0,0,0,0,0,0,0,40
+2025,October,05/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
+2025,October,06/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,15,0,0,0,0,0,0,0,0,16
+2025,October,07/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
+2025,October,11/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2025,October,15/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
+2025,October,19/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
+2025,October,20/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,16,0,0,0,0,0,0,0,0,16
+2025,October,26/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2025,October,26/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
+2025,November,08/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,7,0,0,0,43,0,0,0,0,0,0,0,0,50
+2025,November,08/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,2,0,0,0,50,0,0,0,0,0,0,0,0,52
+2025,November,19/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2025,September,20/09/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2025,September,27/09/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,32,0,0,0,0,0,0,0,0,0,0,0,0,0,32
+2025,October,02/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,40,0,0,0,0,0,0,0,0,40
+2025,October,04/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
+2025,October,08/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,25,0,0,0,15,0,0,0,0,0,0,0,0,40
+2025,October,09/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,11,0,10,0,12,0,0,0,0,0,0,0,33
+2025,October,09/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,18,0,0,0,0,0,0,0,0,18
+2025,October,09/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2025,October,14/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
+2025,October,15/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,16,0,0,0,0,0,0,0,0,16
+2025,October,18/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,5,0,0,40,0,0,0,0,0,0,0,0,45
+2025,October,22/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,14,0,0,0,0,0,0,0,0,14
+2025,October,31/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
+2025,December,01/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,61,0,0,0,0,0,0,0,0,0,0,0,0,0,61
+2025,December,02/12/2025,  Agroforestry,Keluar,KHLTB,Adow,40,10,10,0,0,30,0,10,0,0,0,0,0,0,100
+2025,December,01/12/2025,  Agroforestry,Keluar,KHLTB,Torosik,0,10,10,0,0,30,0,10,0,0,0,0,0,0,60
+2025,December,01/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2025,December,02/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
+2025,December,02/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,42,0,20,0,0,0,0,0,0,0,0,0,0,0,62
+2025,December,02/12/2025,  Agroforestry,Keluar,KHLTB,Torosik,0,10,10,0,0,30,0,10,0,0,0,0,0,0,60
+2025,December,02/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,10,0,5,0,0,20,0,0,0,0,0,0,0,0,35
+2025,December,03/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,5,15,0,0,0,30,0,0,0,0,0,0,0,0,50
+2025,December,04/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,15,0,0,0,0,5,0,0,0,0,0,0,20
+2025,December,04/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
+2025,December,04/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,2,0,0,18,0,0,0,0,0,0,0,0,20
+2025,December,04/12/2025,  Agroforestry,Keluar,KHLTB,Torosik,20,10,5,0,0,30,0,5,0,0,0,0,0,0,70
+2025,October,10/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,5,0,5,0,0,25,0,0,0,0,0,0,0,0,35
+2025,October,11/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2025,October,12/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,5,0,45,0,0,0,0,0,0,50
+2025,October,13/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,5,5,0,0,35,0,0,0,0,0,0,0,0,45
+2025,October,14/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,35,0,0,0,0,0,0,0,0,35
+2025,October,14/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
+2025,October,17/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
+2025,October,28/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,35,0,0,0,0,0,0,0,0,35
+2025,October,29/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
+2025,November,02/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,19,0,0,0,0,0,0,0,0,19
+2025,November,11/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,20,0,0,0,0,15,0,0,0,0,0,0,0,0,35
+2025,November,12/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,34,0,0,0,0,0,0,0,0,35
+2025,November,13/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
+2025,November,13/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
+2025,November,14/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,36,0,0,0,0,0,0,0,0,36
+2025,November,21/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
+2025,November,21/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,59,0,0,0,0,0,0,0,0,59
+2025,November,30/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,1,0,0,0,105,0,5,0,0,0,0,0,0,111
+2025,December,03/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,40,4,0,0,0,0,0,0,0,44
+2025,December,04/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,30,0,0,0,0,0,0,0,0,0,0,0,0,0,30
+2025,December,05/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,12,0,0,0,0,0,0,12
+2025,December,05/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,4,0,0,0,0,0,0,4
+2025,December,06/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
+2025,December,06/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,50,0,1,0,0,25,0,0,0,0,0,0,0,0,76
+2025,December,07/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,28,0,0,0,0,0,0,0,0,0,0,0,28
+2025,December,07/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,13,0,0,0,0,0,0,0,0,0,0,0,0,13
+2025,December,08/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,53,0,0,0,0,0,0,0,0,53
+2025,December,08/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,30,0,0,0,0,0,0,0,0,0,0,0,0,0,30
+2025,December,09/12/2025,  Agroforestry,Keluar,KHLTB,Torosik,10,0,10,0,0,30,0,10,0,0,0,0,0,0,60
+2025,December,09/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,1,0,0,0,27,0,6,0,0,0,0,0,0,34
+2025,December,09/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,7,0,0,25,0,0,0,0,0,0,0,0,32
+2025,December,09/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,22,0,0,0,0,0,0,0,0,22
+2025,December,10/12/2025,  Agroforestry,Keluar,KHLTB,Torosik,0,2,5,0,0,25,0,6,0,0,0,0,0,0,38
+2025,December,10/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,5,5,0,0,0,0,0,0,0,0,0,0,0,10
+2025,December,10/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,1,5,0,0,0,0,1,0,0,0,0,0,0,7
+2025,December,12/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,70,0,0,0,0,0,0,0,0,0,0,0,0,0,70
+2025,December,13/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,1,0,0,0,15,0,0,0,0,0,0,0,0,16
+2025,December,14/12/2025,  Agroforestry,Keluar,KHLTB,Torosik,0,0,5,0,0,30,0,6,0,0,0,0,0,0,41
+2025,December,15/12/2025,  Agroforestry,Keluar,KHLTB,Torosik,0,5,10,0,0,30,0,10,0,0,0,0,0,0,55
+2025,December,15/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
+2025,December,15/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,1,0,0,0,0,5,0,0,0,0,0,0,0,0,6
+2025,December,15/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,5,7,0,0,0,0,0,0,0,0,0,0,0,12
+2025,December,15/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,10,5,0,0,0,0,0,0,0,0,0,0,0,0,15
+2025,December,16/12/2025,  Agroforestry,Keluar,KHLTB,Torosik,0,0,5,0,0,30,0,6,0,0,0,0,0,0,41
+2025,December,16/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
+2025,December,16/12/2025,  Agroforestry,Keluar,KHLTB,Deaga,16,0,4,0,0,30,0,8,0,0,0,0,0,0,58
+2025,December,16/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,6,0,0,36,0,0,0,0,0,0,0,0,42
+2025,December,17/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,1,0,0,0,18,0,16,0,0,0,0,0,0,35
+2025,December,17/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,5,0,0,33,0,0,0,0,0,0,0,0,38
+2025,December,18/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2025,December,18/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,36,0,0,40,0,0,0,0,0,0,0,0,0,0,76
+2025,December,19/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,1,0,0,21,0,21,0,0,0,0,0,0,43
+2025,December,19/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,26,0,0,0,0,0,0,0,0,26
+2025,December,20/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,2,0,0,13,0,0,0,0,0,0,0,0,15
+2025,December,21/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,8,10,8,0,0,0,11,0,0,0,0,0,0,37
+2025,December,21/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
+2025,December,21/12/2025,  Agroforestry,Keluar,KHLTB,Torosik,11,0,10,0,0,29,0,0,0,0,0,0,0,0,50
+2025,December,22/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,6,0,2,0,0,49,0,0,0,0,0,0,0,0,57
+2025,December,22/12/2025,  Agroforestry,Keluar,KHLTB,Torosik,0,5,5,0,0,30,0,5,0,0,0,0,0,0,45
+2025,December,23/12/2025,  Agroforestry,Keluar,KHLTB,Torosik,0,6,5,0,0,30,0,7,0,0,0,0,0,0,48
+2025,December,23/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,43,0,0,0,0,0,0,0,0,0,0,0,0,0,43
+2025,December,23/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
+2025,December,24/12/2025,  Agroforestry,Keluar,KHLTB,Torosik,20,5,5,0,0,30,0,0,0,0,0,0,0,0,60
+2025,December,24/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,14,0,0,0,0,0,0,0,0,0,0,14
+2025,December,24/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,10,0,0,0,0,0,0,0,0,0,0,0,10
+2025,December,24/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,24,0,0,0,0,0,0,0,0,0,0,0,24
+2025,December,25/12/2025,  Agroforestry,Keluar,KHLTB,Torosik,0,0,8,0,0,30,0,5,0,0,0,0,0,0,43
+2025,December,25/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,30,0,1,0,0,0,0,0,0,0,0,0,0,0,31
+2025,December,26/12/2025,  Agroforestry,Keluar,KHLTB,Torosik,0,1,5,0,0,30,0,5,0,0,0,0,0,0,41
+2025,December,26/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,53,0,0,0,0,0,0,0,0,0,0,0,0,0,53
+2025,December,27/12/2025,  Agroforestry,Keluar,KHLTB,Torosik,30,0,13,0,0,30,12,0,0,0,0,0,0,0,85
+2025,December,27/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,25,0,0,0,0,0,0,0,0,0,0,0,25
+2025,December,27/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,2,0,1,0,0,16,0,0,0,0,0,0,0,0,19
+2025,December,28/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,34,0,0,0,0,0,0,0,0,0,0,0,0,0,34
+2025,December,28/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
+2025,December,28/12/2025,  Agroforestry,Keluar,KHLTB,Torosik,0,5,0,0,0,30,0,10,0,0,0,0,0,0,45
+2025,December,29/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,40,0,0,0,0,0,0,0,0,40
+2025,December,30/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,0,0,6,0,0,0,0,0,0,6
+2025,December,30/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,1,0,0,22,0,0,0,0,0,0,0,0,23
+2025,December,30/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,10,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2025,December,31/12/2025,  Agroforestry,Keluar,KHLTB,Torosik,0,0,10,0,0,30,0,5,0,0,0,0,0,0,45
+2025,December,31/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,35,0,0,0,0,0,0,0,0,35
+2025,December,31/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,40,0,5,0,0,0,0,0,0,45
+2025,December,31/12/2025,  Agroforestry,Keluar,KHLTB,Torosik,10,0,5,0,0,30,0,5,0,0,0,0,0,0,50
+2026,January,01/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,4,0,0,70,0,0,0,0,0,0,0,0,74
+2026,January,02/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
+2026,January,02/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,20,0,0,0,0,0,0,0,0,0,0,0,20
+2026,January,02/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,0,0,10,0,0,0,0,0,0,11
+2026,January,03/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,2,2,0,0,0,0,1,0,0,0,0,0,0,5
+2026,January,03/01/2026,  Agroforestry,Keluar,KHLTB,Torosik,30,5,5,0,0,30,0,10,0,0,0,0,0,0,80
+2025,September,29/09/2025,  Agroforestry,Keluar,KHLTB,Mataindo,20,5,5,0,0,0,0,0,0,0,0,0,0,0,30
+2025,October,15/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,20,0,0,0,0,0,0,20
+2025,October,28/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
+2025,November,18/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
+2025,November,24/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,14,0,0,0,0,0,0,14
+2025,November,29/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,33,0,0,0,0,0,0,0,0,0,0,0,0,0,33
+2025,December,01/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
+2026,January,03/01/2026,  Agroforestry,Keluar,KHLTB,Torosik,30,5,5,0,0,30,0,10,0,0,0,0,0,0,80
+2026,January,04/01/2026,  Agroforestry,Keluar,KHLTB,Torosik,30,10,10,0,0,30,0,15,0,0,0,0,0,0,95
+2026,January,04/01/2026,  Agroforestry,Keluar,KHLTB,Torosik,30,15,10,0,0,30,0,15,0,0,0,0,0,0,100
+2026,January,04/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,35,0,0,0,0,0,0,0,0,35
+2026,January,05/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,30,0,5,0,0,0,0,0,0,35
+2026,January,06/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
+2026,January,06/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,4,0,10,0,0,0,0,0,0,14
+2025,November,23/11/2025,Sulawesi Tengah  ,Masuk,KHLTB,Adow,0,0,0,1682,0,0,0,0,0,0,0,0,0,0,1682
+2025,November,23/11/2025,  ,Mati,KHLTB,Adow,0,0,0,1039,0,0,0,0,0,0,0,0,0,0,1039
+2025,November,23/11/2025,  ,Mati,KHLTB,Mataindo Utara,0,0,0,1274,0,0,0,0,0,0,0,0,0,0,1274
+2026,January,07/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,6,0,0,0,0,0,0,6
+2026,January,07/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
+2026,January,07/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,7,0,0,0,0,0,0,7
+2025,November,29/11/2025,  Restorasi,Keluar,KEMP,Pusian Barat,3,0,3,3,0,0,0,0,0,0,0,0,0,0,9
+2026,January,08/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,13,0,0,15,0,0,0,0,0,0,0,0,28
+2026,January,08/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo,23,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2026,January,08/01/2026,  Agroforestry,Keluar,KHLTB,Adow,0,2,0,0,0,30,0,2,0,0,0,0,0,0,34
+2026,January,09/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,21,0,0,0,0,0,0,0,0,0,0,0,21
+2026,January,09/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,13,0,0,0,0,0,0,13
+2026,January,09/01/2026,  Agroforestry,Keluar,KHLTB,Torosik,0,10,10,0,0,30,0,10,0,0,0,0,0,0,60
+2026,January,09/01/2026,  Agroforestry,Keluar,KHLTB,Adow,0,10,10,0,0,30,0,20,0,0,0,0,0,0,70
+2026,January,10/01/2026,  Agroforestry,Keluar,KHLTB,Torosik,0,3,2,0,0,30,0,0,0,0,0,0,0,0,35
+2026,January,10/01/2026,  Agroforestry,Keluar,KHLTB,Adow,0,8,0,0,0,30,0,9,0,0,0,0,0,0,47
+2026,January,10/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,53,0,0,0,0,0,0,0,0,53
+2026,January,10/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo,51,0,0,0,0,0,0,0,0,0,0,0,0,0,51
+2025,October,06/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,30,0,0,0,0,0,0,0,0,31
+2025,October,07/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2025,October,09/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,5,0,0,0,20,0,0,0,0,0,0,0,0,25
+2025,October,16/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,25,0,0,25,0,0,0,0,0,0,0,50
+2025,October,19/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,10,0,20,0,0,0,0,0,0,0,0,0,0,30
+2025,October,23/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,15,0,0,15,0,0,0,0,0,0,0,30
+2025,November,02/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2025,November,02/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,22,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+2025,November,11/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,3,0,0,0,0,15,0,0,0,0,0,0,0,0,18
+2025,November,12/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,15,0,0,0,0,0,0,0,15
+2025,November,12/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
+2025,November,16/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,2,0,0,40,0,0,0,0,0,0,0,0,42
+2025,November,20/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,4,0,0,8,0,0,0,0,0,0,0,0,12
+2025,November,22/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
+2025,November,22/11/2025,  Agroforestry,Keluar,KHLTB,Torosik,10,0,10,0,0,30,0,0,0,0,0,0,0,0,50
+2025,December,03/12/2025,  Agroforestry,Keluar,KHLTB,Adow,25,10,10,0,0,45,0,10,0,0,0,0,0,0,100
+2025,December,28/12/2025,  Agroforestry,Keluar,KHLTB,Torosik,0,10,10,0,0,30,0,10,0,0,0,0,0,0,60
+2026,January,09/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,27,0,0,0,0,0,0,27
+2026,January,11/01/2026,  Agroforestry,Keluar,KHLTB,Torosik,0,5,0,0,0,30,0,10,0,0,0,0,0,0,45
+2026,January,11/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,10,0,0,35,0,0,0,0,0,0,0,0,45
+2026,January,11/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo,50,0,0,0,0,0,0,0,0,0,0,0,0,0,50
+2026,January,12/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,68,0,0,0,0,0,0,0,0,68
+2026,January,12/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,24,0,0,0,0,0,0,0,0,0,0,0,24
+2025,October,30/10/2025,  Agroforestry,Keluar,KEMP,Pusian Barat,5,10,2,0,0,0,0,5,0,0,0,0,0,0,22
+2025,October,31/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,50,0,0,0,0,0,0,0,0,50
+2025,November,06/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,0,0,7,0,0,0,0,0,0,8
+2025,November,01/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2025,November,01/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2025,November,06/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2025,November,02/11/2025,  Agroforestry,Keluar,KHLTB,Adow,4,0,4,0,0,8,0,0,0,0,0,0,0,0,16
+2025,November,01/11/2025,  Agroforestry,Keluar,KHLTB,Deaga,10,10,6,0,0,0,0,0,0,0,0,0,0,0,26
+2025,October,31/10/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,4,0,16,0,4,0,0,0,0,0,0,24
+2025,November,03/11/2025,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,20,0,0,0,0,0,0,35
+2026,January,13/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,40,0,0,0,0,0,0,0,0,40
+2026,January,14/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo,50,0,0,0,0,0,0,0,0,0,0,0,0,0,50
+2026,January,15/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,12,0,0,0,0,0,0,0,0,0,0,0,12
+2026,January,15/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,10,0,0,0,0,0,0,0,0,0,0,0,10
+2026,January,15/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,1,1,0,0,0,0,14,0,0,0,0,0,0,16
+2026,January,16/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo,35,0,0,0,0,0,0,0,0,0,0,0,0,0,35
+2026,January,16/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,10,0,0,0,0,0,0,0,0,11
+2026,January,16/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+2026,January,17/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,12,0,0,0,0,0,0,0,0,12
+2026,January,18/01/2026,  Agroforestry,Keluar,KHLTB,Torosik,0,5,5,0,0,30,0,5,0,0,0,0,0,0,45
+2026,January,19/01/2026,  Agroforestry,Keluar,KHLTB,Adow,0,5,0,0,0,35,0,10,0,0,0,0,0,0,50
+2026,January,19/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,5,0,0,10,0,0,0,0,0,0,0,0,15
+2026,January,19/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo,50,0,0,0,0,0,0,0,0,0,0,0,0,0,50
+2026,January,16/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,10,0,0,0,0,0,0,0,0,11
+2026,January,16/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+2026,January,17/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,12,0,0,0,0,0,0,0,0,12
+2026,January,20/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,5,5,0,0,30,0,5,0,0,0,0,0,0,45
+2026,January,21/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,5,0,0,0,45,0,0,0,0,0,0,0,0,50
+2026,January,22/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,5,0,0,10,0,0,0,0,0,0,0,0,15
+2026,January,22/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,50,0,0,0,0,0,0,0,0,0,0,0,0,0,50
+2026,January,22/01/2026,  Agroforestry,Keluar,KHLTB,Torosik,0,0,6,0,0,10,0,0,0,0,0,0,0,0,16
+2026,January,24/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,5,0,0,0,5,0,15,0,0,0,0,0,0,25
+2026,January,25/01/2026,  Agroforestry,Keluar,KHLTB,Adow,50,0,0,0,0,0,0,0,0,0,0,0,0,0,50
+2026,January,26/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,10,0,0,0,5,0,0,0,0,0,0,0,0,15
+2026,January,26/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,5,0,0,0,30,0,5,0,0,0,0,0,0,40
+2026,January,27/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,5,0,0,0,0,10,0,5,0,0,0,0,0,0,20
+2026,January,27/01/2026,  Agroforestry,Keluar,KHLTB,Adow,0,10,10,0,0,33,0,20,0,0,0,0,0,0,73
+2026,January,29/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,6,0,0,0,0,0,0,0,0,0,0,0,6
+2026,January,29/01/2026,  Agroforestry,Keluar,KHLTB,Adow,0,0,1,0,0,3,0,0,0,0,0,0,0,0,4
+2026,January,29/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
+2026,January,30/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,5,5,0,0,30,0,5,0,0,0,0,0,0,45
+2026,January,31/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,20,0,0,0,0,0,0,0,0,21
+2026,January,31/01/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,60,20,5,0,0,30,0,20,0,0,0,0,0,0,135
+2026,January,31/01/2026,  Agroforestry,Keluar,KHLTB,Adow,0,2,0,0,0,0,0,15,0,5,0,0,0,0,22
+2026,February,01/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,3,0,0,12,0,0,0,0,0,0,0,0,15
+2026,February,01/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,10,0,0,0,0,0,0,0,0,11
+2026,February,01/02/2026,  Agroforestry,Keluar,KHLTB,Adow,0,0,1,0,0,9,0,0,0,0,0,0,0,0,10
+2026,February,01/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo,0,5,0,0,0,30,0,19,0,0,0,0,0,0,54
+2026,February,02/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2026,February,02/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,12,0,0,0,0,0,0,12
+2025,December,31/12/2025,Pembibitan Mandiri  ,Masuk,KHLTB,Mataindo Utara,0,0,5,0,0,30,0,5,0,0,0,0,0,0,40
+2025,August,31/08/2025,Pembibitan Mandiri  ,Masuk,KHLTB,Mataindo Utara,10,0,0,0,0,5,0,0,0,0,0,0,0,0,15
+2026,January,31/01/2026,Pembibitan Mandiri  ,Masuk,KHLTB,Mataindo Utara,0,0,0,0,0,7,0,0,0,0,0,0,0,0,7
+2026,January,31/01/2026,Cabutan Di Kebun Desa Mataindo Utara  ,Masuk,KHLTB,Mataindo Utara,10,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2026,February,03/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,120,0,50,0,0,0,0,80,0,0,0,0,0,0,250
+2026,February,04/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,180,0,0,0,0,0,0,0,0,180
+2026,February,04/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,0,0,700,0,0,0,0,700
+2026,February,04/02/2026,  Agroforestry,Keluar,KHLTB,Adow,0,0,0,0,0,0,0,0,20,0,0,0,0,0,20
+2026,February,05/02/2026,  Agroforestry,Keluar,KHLTB,Adow,0,0,0,0,0,0,0,0,0,160,0,0,0,0,160
+2026,February,05/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
+2026,February,06/02/2026,  Agroforestry,Keluar,KHLTB,Deaga,0,0,1,0,0,10,0,0,0,0,0,0,0,0,11
+2026,February,12/02/2026,  Agroforestry,Keluar,KHLTB,Deaga,0,0,0,0,0,16,0,0,0,0,0,0,0,0,16
+2026,February,10/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,5,3,0,0,15,0,20,0,0,0,0,0,0,43
+2026,February,10/02/2026,  Agroforestry,Keluar,KHLTB,Torosik,0,5,0,0,0,30,0,5,0,0,0,0,0,0,40
+2026,February,12/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,3,1,1,0,0,8,0,0,0,0,0,0,0,0,13
+2026,February,12/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,5,5,0,0,30,0,20,0,0,0,0,0,0,60
+2026,February,13/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,80,10,10,10,0,30,0,10,0,0,0,0,0,0,150
+2026,February,13/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
+2026,February,14/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,10,0,0,0,30,0,10,0,0,0,0,0,0,50
+2026,February,14/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2026,February,16/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,9,0,0,0,0,0,0,0,0,9
+2026,February,16/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
+2026,February,17/02/2026,  Agroforestry,Keluar,KHLTB,Deaga,0,0,0,0,0,0,0,11,0,0,0,0,0,0,11
+2026,February,17/02/2026,  Agroforestry,Keluar,KHLTB,Adow,0,0,0,0,0,10,0,6,0,0,0,0,0,0,16
+2026,February,17/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,1,1,0,0,0,0,2,0,0,0,0,0,0,4
+2026,February,18/02/2026,  Agroforestry,Keluar,KHLTB,Torosik,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2026,February,18/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,16,0,0,0,0,0,0,0,0,16
+2026,February,19/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,15,5,0,0,30,0,0,0,0,0,0,0,0,50
+2026,February,20/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,60,10,10,0,0,0,0,20,0,0,0,0,0,0,100
+2026,February,20/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
+2026,February,21/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,40,5,5,0,0,0,0,0,0,0,0,0,0,0,50
+2026,February,21/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,25,0,0,0,0,19,0,0,0,0,0,0,0,0,44
+2026,February,22/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
+2026,February,22/02/2026,Cabutan Desa Mataindo Utara  ,Masuk,KHLTB,Mataindo Utara,2,1,1,0,0,20,0,0,0,0,0,0,0,0,24
+2026,February,23/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,11,0,0,0,0,0,0,0,0,0,0,0,0,11
+2026,February,24/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,9,0,0,0,0,0,0,0,0,9
+2026,February,24/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
+2026,February,25/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,230,0,0,0,0,0,0,0,0,0,0,0,0,0,230
+2026,February,25/02/2026,  Agroforestry,Keluar,KHLTB,Adow,0,0,0,0,0,0,120,0,0,0,0,0,0,0,120
+2026,February,26/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,5,0,0,0,0,0,0,0,0,5
+2026,February,27/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,70,0,0,0,0,0,0,0,0,0,0,0,0,0,70
+2026,February,28/02/2026,  Agroforestry,Keluar,KHLTB,Adow,0,0,1,0,0,15,0,0,0,0,0,0,0,0,16
+2026,February,28/02/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,52,0,0,0,0,0,0,0,0,52
+2026,February,06/02/2026,  Agroforestry,Keluar,KHLTB,Adow,0,0,5,0,0,30,0,5,0,0,0,0,0,0,40
+2026,February,18/02/2026,  Agroforestry,Keluar,KHLTB,Deaga,0,0,1,0,0,15,0,0,0,0,0,0,0,0,16
+2026,January,30/01/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,1,0,0,0,0,15,0,0,0,0,0,0,16
+2026,January,31/01/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,5,5,0,0,30,0,6,0,0,0,0,0,0,46
+2026,February,02/02/2026,  Restorasi,Keluar,KEMP,Pusian Barat,36,0,0,0,0,0,0,0,0,0,0,0,0,0,36
+2026,February,09/02/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2026,February,14/02/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,0,0,0,0,0,12,0,0,0,0,0,0,12
+2026,March,05/03/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,26,0,0,0,0,36,0,0,0,0,0,0,62
+2026,February,12/02/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,18,0,0,0,0,11,0,0,0,0,0,0,29
+2026,February,01/02/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,98,0,0,0,0,27,0,0,0,0,0,0,125
+2026,February,16/02/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,30,0,0,0,0,22,0,0,0,0,0,0,52
+2026,February,18/02/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,24,0,0,0,0,24,0,0,0,0,0,0,48
+2026,February,18/02/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,33,0,0,0,0,36,0,0,0,0,0,0,69
+2026,March,04/03/2026,Pembibitan Mandiri Nursery  ,Masuk,KEMP,Pusian Barat,13,0,0,124,0,0,0,0,0,0,0,0,0,0,137
+2026,February,28/02/2026,  ,Keluar,KHLTB,Mataindo Utara,0,0,0,848,517,0,0,0,0,0,0,0,0,0,1365
+2026,February,09/02/2026,  ,Keluar,KHLTB,Adow,195,0,0,0,0,0,0,0,0,0,0,0,0,0,195
+2026,March,03/03/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,20,0,0,0,0,0,0,0,0,0,0,0,20
+2026,March,04/03/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,5,0,0,0,0,47,0,0,0,0,0,0,52
+2026,April,06/04/2026,Pembibitan Mandiri Nursery  ,Masuk,KEMP,Pusian Barat,33,0,0,26,1066,0,0,0,0,0,0,0,0,0,1125
+2026,March,01/03/2026,  Agroforestry,Keluar,KHLTB,Adow,0,5,5,0,0,30,0,5,0,0,0,0,0,0,45
+2026,March,01/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,0,0,8,0,0,0,0,0,0,9
+2026,March,01/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,11,0,0,0,0,0,0,0,0,12
+2026,March,02/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,0,0,13,0,0,0,0,0,0,14
+2026,March,03/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,1,0,0,0,0,19,0,0,0,0,0,0,20
+2026,March,04/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,5,0,0,0,0,10,0,0,0,0,0,0,0,0,15
+2026,March,05/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,10,0,0,0,0,0,0,10
+2026,March,06/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,10,0,0,0,0,12,0,0,0,0,0,0,0,0,22
+2026,March,07/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
+2026,March,08/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2026,March,08/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,10,0,0,0,0,0,0,0,0,0,0,0,0,10
+2026,March,09/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3
+2026,March,09/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,6,0,0,0,0,0,0,0,0,6
+2026,March,09/03/2026,  Agroforestry,Keluar,KHLTB,Adow,0,0,5,0,0,30,0,5,0,0,0,0,0,0,40
+2026,March,10/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
+2026,March,10/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,10,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2026,March,11/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,5,0,0,0,0,0,0,0,0,0,0,0,5
+2026,March,12/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,12,0,0,0,0,0,0,0,0,12
+2026,March,13/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,10,0,0,0,0,0,0,10
+2026,March,14/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,7,0,0,0,0,0,0,0,0,7
+2026,March,15/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,5,0,0,0,0,0,0,0,0,6
+2026,March,15/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,8,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2026,March,16/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,6,0,1,0,0,0,0,0,0,0,0,0,0,0,7
+2026,March,16/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
+2026,March,19/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,10,0,1,0,0,0,0,0,0,0,0,0,0,0,11
+2026,March,22/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,5,0,0,0,0,0,0,0,0,0,0,0,5
+2026,March,24/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,11,0,0,0,0,0,0,0,0,12
+2026,March,25/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,12,0,0,0,0,0,0,0,0,12
+2026,March,25/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2026,March,26/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,8,0,1,0,0,4,0,0,0,0,0,0,0,0,13
+2026,March,27/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,17,0,0,0,0,0,0,0,0,17
+2026,March,27/03/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2026,March,30/03/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,65,0,0,0,0,153,0,0,0,0,0,0,218
+2026,March,30/03/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,53,0,0,0,0,21,0,0,0,0,0,0,74
+2026,March,30/03/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,34,0,0,0,0,13,0,0,0,0,0,0,47
+2026,March,31/03/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,41,0,0,0,0,27,0,0,0,0,0,0,68
+2026,April,10/04/2026,  Agroforestry,Keluar,KHLTB,Adow,0,0,5,0,0,30,0,5,0,0,0,0,0,0,40
+2026,April,14/04/2026,  Agroforestry,Keluar,KHLTB,Torosik,45,5,5,0,0,0,0,0,0,0,0,0,0,0,55
+2026,April,14/04/2026,  Agroforestry,Keluar,KHLTB,Torosik,50,5,5,0,0,30,0,0,0,0,0,0,0,0,90
+2026,April,14/04/2026,  Agroforestry,Keluar,KHLTB,Torosik,50,5,5,0,0,30,0,0,0,0,0,0,0,0,90
+2026,April,15/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,3,0,0,15,0,0,0,0,0,0,0,0,18
+2026,April,15/04/2026,  Agroforestry,Keluar,KHLTB,Torosik,60,5,5,0,0,10,0,0,0,0,0,0,0,0,80
+2026,April,16/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo,12,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2026,April,16/04/2026,  Agroforestry,Keluar,KHLTB,Torosik,40,5,5,0,0,0,0,0,0,0,0,0,0,0,50
+2026,April,20/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo,33,38,30,30,44,0,0,30,0,0,0,0,0,0,205
+2026,April,21/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo,61,64,70,0,0,0,0,5,0,0,0,0,0,0,200
+2026,April,22/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo,66,79,15,0,20,0,0,20,0,0,0,0,0,0,200
+2026,April,22/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo,0,11,2,0,0,0,0,8,0,0,0,0,0,0,21
+2026,April,22/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,42,0,0,0,0,0,0,0,0,42
+2026,April,23/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,10,0,0,0,0,0,0,10
+2026,April,23/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo,65,116,0,0,0,0,0,19,0,0,0,0,0,0,200
+2026,April,22/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo,0,175,25,75,0,0,0,0,0,0,0,0,0,0,275
+2026,April,22/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,25,0,0,0,0,0,0,0,0,0,0,25
+2026,April,23/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo,0,50,75,75,0,0,0,0,0,0,0,0,0,0,200
+2026,April,24/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo,0,25,50,75,0,0,0,0,0,0,0,0,0,0,150
+2026,April,24/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,14,0,0,0,0,0,0,0,0,0,0,0,14
+2026,April,25/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,53,10,0,0,0,0,0,0,0,0,0,0,0,63
+2026,April,25/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo,61,75,0,0,33,0,0,31,0,0,0,0,0,0,200
+2026,April,25/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo,25,0,0,25,125,0,0,25,0,0,0,0,0,0,200
+2026,April,26/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15
+2026,April,26/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,4,0,0,0,0,0,0,0,0,0,0,0,4
+2026,April,26/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo,136,215,11,20,18,0,0,0,0,0,0,0,0,0,400
+2026,April,26/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo,125,0,0,0,25,0,0,0,0,0,0,0,0,0,150
+2026,April,27/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
+2026,April,27/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,9,0,1,0,0,10,0,0,0,0,0,0,0,0,20
+2026,April,28/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,8,0,0,0,0,0,0,0,0,8
+2026,April,29/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo,129,25,20,0,0,0,0,26,0,0,0,0,0,0,200
+2026,April,29/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+2026,April,29/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,9,0,0,6,0,0,0,0,0,0,0,0,15
+2026,April,30/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2026,April,30/04/2026,  Agroforestry,Keluar,KHLTB,Mataindo,95,65,5,0,0,0,0,35,0,0,0,0,0,0,200
+2026,April,19/04/2026,Kotamobagu  ,Masuk,KHLTB,Adow,0,0,0,0,0,0,0,0,0,0,500,0,0,0,500
+2026,April,27/04/2026,Gorontalo  ,Masuk,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,0,0,0,0,200,0,0,200
+2026,April,25/04/2026,Smart Patrol  ,Masuk,KHLTB,Mataindo Utara,0,0,0,0,0,0,0,0,0,0,0,0,15,0,15
+2026,April,23/04/2026,  Restorasi,Keluar,KEMP,Pusian Barat,31,0,0,0,0,0,0,0,0,0,0,0,0,0,31
+2026,April,23/04/2026,  Restorasi,Keluar,KEMP,Pusian Barat,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+2026,April,26/04/2026,  Restorasi,Keluar,KEMP,Pusian Barat,68,0,0,10,0,0,0,0,0,0,0,0,0,0,78
+2026,April,27/04/2026,  Restorasi,Keluar,KEMP,Pusian Barat,20,0,0,10,0,0,0,19,0,0,0,0,0,0,49
+2026,April,27/04/2026,  Restorasi,Keluar,KEMP,Pusian Barat,100,0,0,0,0,0,0,0,0,0,0,0,0,0,100
+2026,April,27/04/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,0,43,0,0,0,0,0,0,0,0,0,0,43
+2026,April,27/04/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,20,0,0,0,0,0,0,0,0,0,0,0,20
+2026,May,04/05/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,10,5,0,0,0,0,0,0,0,0,0,0,15
+2026,May,04/05/2026,  Restorasi,Keluar,KEMP,Pusian Barat,103,0,0,0,0,0,0,0,0,0,0,0,0,0,103
+2026,May,05/05/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,15,0,0,0,0,0,0,0,0,0,0,0,15
+2026,May,05/05/2026,  Restorasi,Keluar,KEMP,Pusian Barat,30,0,0,0,0,0,0,0,0,0,0,0,0,0,30
+2026,May,05/05/2026,  Restorasi,Keluar,KEMP,Pusian Barat,65,0,0,0,0,0,0,0,0,0,0,0,0,0,65
+2026,May,05/05/2026,  Restorasi,Keluar,KEMP,Pusian Barat,27,0,0,0,0,0,0,0,0,0,0,0,0,0,27
+2026,May,05/05/2026,  Restorasi,Keluar,KEMP,Pusian Barat,182,0,3,5,0,0,0,10,0,0,0,0,0,0,200
+2026,May,06/05/2026,  Restorasi,Keluar,KEMP,Pusian Barat,36,0,4,0,0,0,0,22,0,0,0,0,0,0,62
+2026,May,06/05/2026,  Restorasi,Keluar,KEMP,Pusian Barat,25,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+2026,May,08/05/2026,  Restorasi,Keluar,KEMP,Pusian Barat,12,0,10,0,0,0,0,0,0,0,0,0,0,0,22
+2026,May,08/05/2026,  Restorasi,Keluar,KEMP,Pusian Barat,14,0,10,0,0,0,0,0,0,0,0,0,0,0,24
+2026,May,17/05/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,6,0,0,0,0,0,0,0,0,0,0,0,6
+2026,May,17/05/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,14,7,0,0,0,0,0,0,0,0,0,0,21
+2026,May,17/05/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,7,0,0,0,0,7,0,0,0,0,0,0,14
+2026,May,17/05/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,9,0,0,0,0,5,0,0,0,0,0,0,14
+2026,May,11/05/2026,  Agroforestry,Keluar,KHLTB,Adow,0,0,0,0,0,0,0,150,0,0,0,0,0,0,150
+2026,May,29/05/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,5,0,0,0,0,0,0,0,0,0,0,0,0,5
+2026,May,29/05/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,13,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2026,May,30/05/2026,  Agroforestry,Keluar,KHLTB,Mataindo,22,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+2026,May,30/05/2026,  Agroforestry,Keluar,KHLTB,Adow,0,5,5,0,0,40,0,5,0,0,0,0,0,0,55
+2026,May,31/05/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,25,0,0,0,0,0,0,0,0,26
+2025,December,15/12/2025,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,66,0,0,0,0,0,0,0,0,66
+2025,December,31/12/2025,  Agroforestry,Keluar,KHLTB,Adow,40,10,10,0,0,30,0,10,0,0,0,0,0,0,100
+2026,May,03/05/2026,  Agroforestry,Keluar,KHLTB,Mataindo,80,0,0,0,0,0,0,20,0,0,0,0,0,0,100
+2026,May,04/05/2026,  Agroforestry,Keluar,KHLTB,Mataindo,0,325,10,0,0,0,0,30,0,0,0,0,0,0,365
+2026,May,07/05/2026,  Agroforestry,Keluar,KHLTB,Adow,0,0,5,0,0,30,0,5,0,0,0,0,0,0,40
+2026,June,01/06/2026,  Agroforestry,Keluar,KHLTB,Adow,0,5,5,0,0,30,0,5,0,0,0,0,0,0,45
+2026,June,01/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo,14,0,2,0,0,0,0,0,0,0,0,0,0,0,16
+2026,June,02/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,15,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2026,June,03/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo,26,0,0,0,0,0,0,0,0,0,0,0,0,0,26
+2026,June,04/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,15,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2026,June,04/06/2026,  Agroforestry,Keluar,KHLTB,Torosik,40,5,5,0,0,0,0,0,0,0,0,0,0,0,50
+2026,June,04/06/2026,  Agroforestry,Keluar,KHLTB,Torosik,40,5,0,0,0,5,0,0,0,0,0,0,0,0,50
+2026,June,05/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo,19,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+2026,June,06/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,14,0,0,0,0,0,0,0,0,14
+2026,June,07/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,6,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2026,June,07/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,5,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2026,June,07/06/2026,  Agroforestry,Keluar,KHLTB,Adow,0,2,2,0,0,50,0,50,0,0,0,0,0,0,104
+2026,June,08/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
+2026,June,09/06/2026,  Agroforestry,Keluar,KHLTB,Adow,80,5,5,0,0,0,0,0,0,0,0,0,0,0,90
+2026,June,09/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo,72,128,0,0,0,0,0,0,0,0,0,0,0,0,200
+2026,June,09/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,19,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+2026,June,10/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,30,0,0,0,0,0,0,0,0,30
+2026,June,11/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,4,0,1,0,0,0,0,0,0,0,0,0,0,0,5
+2026,June,11/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,1,0,0,10,0,0,0,0,0,0,0,0,11
+2026,June,11/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,0,0,0,0,0,15,0,0,0,0,15
+2026,June,12/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,70,0,0,0,0,0,0,0,0,0,0,0,0,0,70
+2026,June,13/06/2026,  Agroforestry,Keluar,KHLTB,Torosik,0,0,0,0,0,0,0,0,0,0,55,0,0,0,55
+2026,June,13/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,9,3,0,0,0,0,0,0,0,0,0,0,0,12
+2026,June,14/06/2026,  Agroforestry,Keluar,KHLTB,Torosik,60,10,10,0,0,0,0,10,0,0,0,0,0,0,90
+2026,June,15/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25
+2026,June,15/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,14,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2026,June,15/06/2026,  Agroforestry,Keluar,KHLTB,Adow,0,50,5,0,0,0,0,70,0,0,0,0,0,0,125
+2026,June,16/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo,0,0,0,0,15,0,0,0,0,0,0,0,0,0,15
+2026,June,16/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,9,0,1,0,0,5,0,0,0,0,0,0,0,0,15
+2026,June,17/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,20,1,7,3,0,0,0,0,0,0,0,0,0,0,31
+2026,June,18/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo,0,25,0,0,0,0,0,0,0,0,125,0,0,0,150
+2026,June,18/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,20,0,0,0,0,0,0,0,0,20
+2026,June,19/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,13,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2026,June,20/06/2026,  Agroforestry,Keluar,KHLTB,Adow,0,0,0,0,0,0,0,0,0,200,0,10,0,0,210
+2026,June,20/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,27,0,0,0,0,0,0,0,0,27
+2026,June,21/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2026,June,22/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,18,0,2,0,0,0,0,0,0,0,0,0,0,0,20
+2026,June,23/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,2,0,0,0,0,12,0,0,0,0,0,0,14
+2026,June,24/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,0,0,0,16,0,0,0,0,0,0,0,0,16
+2026,June,25/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,6,0,1,0,0,6,0,0,0,0,0,0,0,0,13
+2026,June,26/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,7,0,0,0,0,0,0,0,0,0,0,0,7
+2026,June,27/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,16,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+2026,June,27/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo,41,0,0,0,0,0,0,0,0,0,0,0,0,0,41
+2026,June,28/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,10,0,0,0,0,0,0,0,0,0,0,0,10
+2026,June,29/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,0,0,10,0,0,10,0,0,0,0,0,0,0,0,20
+2026,June,30/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo,15,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2026,June,30/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,30,0,0,0,0,0,0,0,0,0,0,0,0,0,30
+2026,June,06/06/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,42,0,0,0,0,112,0,0,0,0,0,0,154
+2026,June,08/06/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,0,0,0,0,0,24,0,0,0,0,0,0,24
+2026,June,08/06/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,32,0,0,0,0,0,0,0,0,0,0,0,32
+2026,June,08/06/2026,  Restorasi,Keluar,KEMP,Pusian Barat,80,0,25,0,0,0,0,43,0,0,0,0,0,0,148
+2026,June,09/06/2026,  Restorasi,Keluar,KEMP,Pusian Barat,248,0,78,0,0,0,0,0,0,0,0,0,0,0,326
+2026,June,10/06/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,11,0,0,0,0,0,0,0,0,0,0,0,11
+2026,June,10/06/2026,  Restorasi,Keluar,KEMP,Pusian Barat,71,0,40,5,0,0,0,0,0,0,0,0,0,0,116
+2026,June,10/06/2026,  Restorasi,Keluar,KEMP,Pusian Barat,62,0,0,0,0,0,0,0,0,0,0,0,0,0,62
+2026,June,10/06/2026,  Restorasi,Keluar,KEMP,Pusian Barat,25,0,25,0,0,0,0,0,0,0,0,0,0,0,50
+2026,June,11/06/2026,  Restorasi,Keluar,KEMP,Pusian Barat,30,0,0,0,0,0,0,0,0,0,0,0,0,0,30
+2026,June,11/06/2026,  Restorasi,Keluar,KEMP,Pusian Barat,53,0,26,10,0,0,0,0,0,0,0,0,0,0,89
+2026,June,11/06/2026,  Restorasi,Keluar,KEMP,Pusian Barat,21,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+2026,June,11/06/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,0,10,0,0,0,0,0,0,0,0,0,0,10
+2026,June,11/06/2026,  Restorasi,Keluar,KEMP,Pusian Barat,10,0,6,0,0,0,0,0,0,0,0,0,0,0,16
+2026,June,11/06/2026,  Restorasi,Keluar,KEMP,Pusian Barat,112,0,16,0,0,0,0,0,0,0,0,0,0,0,128
+2026,June,12/06/2026,  Restorasi,Keluar,KEMP,Pusian Barat,43,0,0,0,0,0,0,0,0,0,0,0,0,0,43
+2026,June,12/06/2026,  Restorasi,Keluar,KEMP,Pusian Barat,5,0,31,0,0,0,0,0,0,0,0,0,0,0,36
+2026,June,12/06/2026,  Restorasi,Keluar,KEMP,Pusian Barat,21,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+2026,June,12/06/2026,  Restorasi,Keluar,KEMP,Pusian Barat,62,0,15,0,0,0,0,36,0,0,0,0,0,0,113
+2026,June,12/06/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,0,0,0,0,0,11,0,0,0,0,0,0,11
+2026,June,12/06/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,0,0,0,0,0,10,0,0,0,0,0,0,10
+2026,June,12/06/2026,  Restorasi,Keluar,KEMP,Pusian Barat,10,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2026,June,12/06/2026,  Restorasi,Keluar,KEMP,Pusian Barat,0,0,9,0,0,0,0,0,0,0,0,0,0,0,9
+2026,June,26/06/2026,  Agroforestry,Keluar,KHLTB,Mataindo,445,435,20,0,0,0,0,105,0,0,0,0,0,0,1005
+2026,July,01/07/2026,  Agroforestry,Keluar,KHLTB,Mataindo Utara,43,0,0,0,0,0,0,0,0,0,0,0,0,0,43
